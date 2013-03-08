@@ -1,0 +1,2047 @@
+%%TunebookLive:start
+%%parent:37
+%%pdflink:http://richardrobinson.tunebook.org.uk/static/NoMarshall.pdf
+%%ishtml:1
+%%TBL:{"version":1,"type":"collection","id":"100"}
+%%alias:Marshall-1845
+%%Title:William Marshall's Scottish Melodies, Reels, Strathspeys volume 2nd (1845)
+
+X: 105
+T:Colonel W. Marshall of the 79th Regiment of Foot
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Air
+Z:Clark Bernst + Richard Robinson
+%%Page:14 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3948
+%%TBL:{"version":1,"type":"tune","id":"3948"}
+K:C
+%%staves {1 2}
+V:1
+"^SLOW" E/F/ | \
+!trill!G>A G<E !trill!G>A G<E & E2x2E2x2 | \
+!trill!c>d e/d/c/B/ A/G/F/E/ (DE/F/) & G2G2x4 | \
+!trill!G>A G<E !trill!G>A G<f & E2x2E2x2 | \
+e<c !trill!g>e {e}d2 c & G2G2G2G ||
+E/F/ | \
+!trill!g>a g<e g>a g<e | (!trill!fg/a/) (a/g/f/e/) fdd (e/f/) | \
+!trill!g>a g<e c>d c>G | (A<a) (!trill!g>f) {f}e2 d~e/f/ |
+!trill!g>a g<e g>a g<e | (!trill!fg/a/) (a/g/f/e/) fd d(e/f/) | \
+!trill!c>d c>G A>B (B/A/)(G/F/) | E>~G [Gc]/e/[Gg]/e/ {e}[Fd]2 {cedc}[Ec] |]
+V:2 middle=d clef=bass
+L:1/16
+z2 | \
+cgc'g cgc'g cgc'g cgc'g | egc'g cgc'g fga^f g=fed | \
+cgc'g cgc'g cgc'g bgab | c'bc'd' e'c'd'e' gbd'f' [c'e']2 || \
+z2 | \
+[c'e']g[c'e']g [c'e']g[c'e']g [c'e']g[c'e']g [c'e']g[c'e']_b | \
+ac'f'c' fc'f'c' gbd'b fbd'b | \
+egc'g cgc'g egc'g cgc'g | fac'a fad'a gc'e'c [gbd']4 | \
+[c'e']g[c'e']g [c'e']g[c'e']g [c'e']g[c'e']g [c'e']g[c'e']_b | \
+ac'f'c' fad'a fgbg fgbg | egc'g cgc'g f3a gfed & x8C,8 | [Cc]4 [Ee]2[Cc]2 [Gg]4 [Cc]2 |]
+
+X: 46
+T:the Countess of Seafield
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:9/8
+O:Scotland
+R:Slip Jig
+Z:Clark Bernst + Richard Robinson
+%%Page:20 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3889
+%%TBL:{"version":1,"type":"tune","id":"3889"}
+K:Bb
+%%staves {1 2}
+V:1
+B3 B2 d fdB | C2 c c2 d efg | B,2 B B2 d fdB | GAB cdB AGF |
+[B,fB]3 B2 d fdB | C2 c c2 d efg | fga bag fed | edc FdA B3 |]
+!trill!f3 d2 b fed | e3 c2 d efg | f2~b d2 B f2 d | GAB cdB AGF |
+f3 ~d2 b fed | !trill!e3 c2 d efg | fga bag fed | {f}edc FdA [FB]3 |]
+V:2 middle=d clef=bass
+Bfb Bfb Bfb | egc' egc' cgc' | dfb dfb dfb | e2d c2=e f3 | \
+Bfb Bfb Bfb | egc' egc' cgc' | dfb dfb dfb | egc' fc'e' [bd']3 |] \
+bd'f' bd'f' bd'f' | c'e'f' c'e'f' c'e'f' | bd'f' bd'f' bd'f' | [ee']2[d'd] [cc']2[=ec'] [fc']2z | \
+bd'f' bd'f' bd'f' | c'e'f' c'e'f' c'e'f' | bd'f' bd'f' dfb | egc' fc'e' [bd']3 |]
+
+X:1
+T:the Craigellachie Lassies
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:6/8
+O:Scotland
+R:Jig
+Z:Clark Bernst + Richard Robinson
+%%Page:4 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3984
+%%TBL:{"version":1,"type":"tune","id":"3984"}
+K:D
+%%staves {1 2}
+V:1
+A | \
+{c}d2 d {e}dcB | A3/B/G {G}F3/E/D | \
+{c}d2 d d3/c/d | e3/f/d c3/B/G & B2^G =G3 | 
+{c}d2 d {e}d3/c/B | A3/B/G {G}F3/E/D | \
+EC3/A,/ A,3/B,/C | D3 D2 |]
+f/g/ | \
+afd def | gec Ace | fdA GBe | ecA FGA & G3 D3 | 
+BGE EFG & D3 C3 | AFD DFA & D3 x3| ECA, A,B,C | D3 D2 f/g/ |
+afd afd | gec gec | fdA fdA | ecA ecA | 
+BGB dcB | AFA Bcd | Bgf {f}e3/d/c & G3 G3 | d3 D2 & F3 x2 |]
+V:2 middle=d clef=bass
+z | \
+[dfd']2 [dfd'] [dgd']2 [dgd'] | [dfd']2 [dbd'] [dad']2 [df] | \
+[dfd']2 [dfd'] [dfd']2 [dfd'] | [Gg]2 [Cc] [Aa]2[Aa] | \
+fad' gbd' & D,3 D,3 | fad' faf & D,3 D,3 | \
+Aeg Aeg & A,,3 A,,3 |  f3 f2 & D,,F,,A,, D,2 |] \
+z | \
+d2[fd'] [fd']2 [fd'] & D,6 | e2[ac'] [ac']2[ac'] & E,6 | \
+d2[fd'] [Gg]2[Ee] | [Aa]2[Aa] [da]ef | \
+[Gg]2[Ee] [Aa]2[Gg] | [Ff]2[Dd] [Dd]2[Dd] | \
+[Aeg]2[Aeg] [Aeg]2[Aeg] | f3 f2z & D,,F,,A,, D,2z | \
+{D}d2[fd'] [fd']2[fd'] |  a2[ae'] [ae']2[ae'] | \
+{D}d2[fd'] [fd']2[fd'] | [ac']2[ae'] [ae']2[fd'] | \
+[gd']2[gd'] [db]ag | [dfa]2[dfa] [Gg]2 [Ff] | \
+[Gg]2[Ee] [Aa]2[A,A] | DFA d2 |]
+
+X: 214
+T:the Duchess of Bedford's Cairn
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:10 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4057
+%%TBL:{"version":1,"type":"tune","id":"4057"}
+K:F
+%%staves {1 2}
+V:1
+A/B/ | \
+c>Fd>F (!trill!BA) GA/B/ | c>Fd>F EG- GA/B/ | \
+c>Fd>F c>Ff>d | (!trill!EG)(Gc) A<F F :|
+f/g/ | \
+(a/g/)f/e/ fc {Bc}d2 (cg) | d>fc>f {fg}ag gf/g/ | \
+a/g/f/e/   fc {Bc}d2 (Bd) | (c/f/)e/d/ (c/B/)A/G/ AF Ff/g/ |
+(a/g/)f/e/ fc {Bc}d2 (cg) | d>fc>f {fg}ag gf/g/ | \
+a>fg>e fcaf | f>d c/d/c/A/ AFF |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ff] [Ff] [Cc] [Cc] | [Aa] [Bb] [cc'] [cc'] | \
+[Aa] [Bb] [Aa] [Ff] | [Cc] [Cc] [Ff] [Ff]/ :| \
+z/ | \
+[fac'] [fac'] [fbd'] [fac'] | [fbd'] [fac'] [cc'] [cc'] | \
+[fac'] [fac'] [fbd'] [fbd'] | [fac'] [cc'] [fac'] [fac'] | \
+[fac'] [fac'] [fb]   [fa]   | [fb] [fa]  [cc'] [cc'] | \
+[fac'] [gbc'] [fac'] [fac'] | [Bb] [cc'] [Ff]  [Ff]/ |]
+
+X:2
+T:the Duchess of Buccleuch
+B:William Marshall - Volume 2nd of A Collection of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+N:The voicing is horrible; notes or chords appear to move across the staves according to typesetter's convenience, it's not always clear which notes were intended for which instrument.
+N:Perhaps he was serious when he put 'piano' first in the list of instruments ? Then it wouldn't matter. I don't know.
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:1 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4058
+%%TBL:{"version":1,"type":"tune","id":"4058"}
+K:F
+%%staves {1 2}
+V:1
+B | \
+(A/B/c) (Fc) AFFB | (A/B/c) (Fc) d/c/B/A/ GB | \
+(A/B/c) (Fc) AFFC | DF E/F/G/E/ F2 F :|
+f/g/ | \
+aFFa bdgf | ecde f/e/f/g/ ff/g/ | aFFa bd!trill!gf | e3/c/d=B !trill!c2 c2 & x4 E2FE |
+Cc[EB][FA] d/B3/ ~B2 & x2 C2 D2 x2 | B,BAG c<A ~A2 & x2 C2 C2 x2 | \
+!trill!F3/G/AF GAB[=Fd] & C2x2 D2-D2| c3/f/ e/f/g/e/ f2 f |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ff][Ff][Ff][Ff] | [Ff] [A,A] [B,B] [Cc] | fffA | Bc Ff/ :| \
+z/ | \
+[fac'] [fac'] [bd'g'] [=bd'g'] | [c'e'g'] [be'g'] [ac'f'] [fac'] | \
+[fac'] [fac'] [bd'g'] [=bd'g'] | [c'g'] [gd'f'] c'/b/a/g/ &x3 C | \
+[fa] g/a/ b g/f/  | [eg] f/g/ [fa] c/B/ | \
+A/G/F/A/ B/A/G/B/ | cC[Ff][Ff]/ |]
+
+X: 49
+T:the Duchess of Gordon
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:3/4
+N:Air? Waltz?  Slowly
+O:Scotland
+R:Air
+Z:Clark Bernst + Richard Robinson
+%%Page:18 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3892
+%%TBL:{"version":1,"type":"tune","id":"3892"}
+K:Bb
+%%staves {1 2}
+V:1
+"^Moderato" FG/A/ | \
+[DFB]2 [B,FB]2 [B,DB]2 | d3 {edcd}e [FBf]2 & F4x2 | \
+c>d (3fed (3dcB & G2G2F2 | A2 G2 [B,F]{GFEF}[EG]/A/ & [B,E]4 x2 | \
+[B,FB]2 [B,FB]2 [B,DFB]2 | d3 {edcd}e f2 & F4x2 | \
+=e>b ag f>e &B4x2 | g2 f2 f{gfef}g/a/ & B2A2B2 | \
+b2 f2 d2 & B4B2 | g2 e2 c^c &G2G2F2 | \
+d>f ed {d}c>B & F2F2F2 | A2 G2 [B,F]{GFEF}[EG]/A/ & [B,E]4x2 | \
+B2 B,2 [B,D]2 | [Ff]3g/e/ [Fd]2 & x3Ax2 | \
+F>e d2 d3//c//B3//c// & F2F2[EA]2 | [c2F2E2] [DFB]2 |]
+d>e | \
+f2 d2 [Bb]2 & B4x2 | f2 d2 [Bb]2 & B4x2 | gf ed cB & B4F2 | A2 G2 !trill!FG/A/ & [B,E]4B,2 | \
+[DB]2 [DF]2 [DB]2  | d3 {edcd}e f2 & F4[FB]2 | =e>b ag f>e &B4 x2 | [Bg]2 [Af]2 d>!trill!e &x4B2 | \
+f2 (3fdf [Bb]2 & B4x2 | g2 (3geg b2 & B6| c>d e>d (3dcB &G2G2F2 | A2 G2 [B,F]G/A/ & [B,E]4 | \
+B2 B,2 D2 | [Fcf]3 g/e/ [Fd]2 & x2Ax3 | F>e [Fd]2 d3//c//B3//c// &x4[EA]2 | [EFc]2 [DFB]2 |]
+V:2 middle=d clef=bass
+z2 | \
+[B,B]2 [Dd]2 [Ff]2 | b4 x2 & B,,3C, [D,B,]2 | [Ee]2 [Cc]2 [Dd]2 | eEGB [Dd][Cc] | \
+[B,B]2 [Dd]2 [Ff]2 | b4 x2 & B,,3C, [D,B,]2 | x2[gbc']2 [gbc']2 & C,6 | fFfe f2 & x4D,C, | \
+[Bb]2 [db]2 [Bf_a]2 |[eg]2 [cg]2 [fa]2 | [bd']2 [db]2 [db]2 | eEBG [Dd][Cc] | \
+[B,B]2 [B,B]2 [B,B]2 | [A,A]2 [F,F]2 [B,B]2 | [Dd]>[Ee] [Ff]2[Ff]2 | B2b2 |] \
+z2 | \
+Bbfbdb & B,,6 | Bbfbdb & B,,6 | Bbfbdb & B,,6 | eEGB [Dd][Cc] | \
+[B,B]2 [B,B]2 [B,B]2 | [B,B]2 [Cc]2 [Dd]2 | c2 [gbc']2 [gbc']2 & C,,6 | fFfe f2 & x4D,C, | \
+{B}[Bb]2 [bd'f']2 z2 | [Ee]2 [be'g']2 x2 | [Ee]>[Dd] [Cc]2 [Dd]2 | eEGB [Dd][Cc] | \
+[B,B]2 [B,B]2 [B,B]2 | [A,A]2 [F,F]2 [B,B]2 | [Dd]>[Ee] [Ff]2 [Ff]2 | B2 b2 |]
+
+X: 50
+T:the Duchess of Richmond
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:18 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3893
+%%TBL:{"version":1,"type":"tune","id":"3893"}
+K:Bb
+%%staves {1 2}
+V:1
+f | \
+(ed)cA BF ~B2 | dfga bfdB | {d}e2 d=B cG ~!=!c2 | cdef gedc |
+(Bc/d/) BF BF B2 | Bcde fbdB | Egfe dfdB | FBAc [DB]2 [DB] & D2F2x4 |]
+f | \
+bBaB gBfB | dfga bfdB | c(f=ef) d(fef) & A2x2B2x2 | dbag f=edc |
+d<B (c/B/A/B/) F<B (c/B/A/B/) | GBFB EBDB | Egfe dfdB | FBAc [DB]2 [DB] & D2E2x4 |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[B,B] [B,B] [B,B] [B,B] | [B,B] [B,B] [B,B] [B,B] | [Cc] [Dd] [Ee] [Ee] | [Cc] [Cc] [Cc] [Ff] | \
+[B,B] [B,B] [B,B] [B,B] | [B,B] [B,B] [B,B] [B,B] | [Ee] [Ee] [Bb] [Bb] | [Ff] [Ff] [Bb] [Bb]/ |] \
+z/ | \
+[Bg] [Bf] [Be] [Bd] | [Bb] [Bb] [Bb] [Bb] | [Bb] [Ff] [Bb] [Ff] | [Bb] [Bb] [Aa] [Ff] | \
+[fbd'] [fbd'] [dfb] [dfb] | [eb] [eb] [cb] [Bb] | [Ee] [Ee] [Bb] [Bb] | [Ff] [F,F] [Bb] [Bb]/ |]
+
+X:3
+T:the Duke of Buccleuch
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:1 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4059
+%%TBL:{"version":1,"type":"tune","id":"4059"}
+K:F
+%%staves {1 2}
+V:1
+FGAc fgag | fdcA GFDG | FGAc fgag | fcde f2 f ::
+g | \
+afge fcdf | dfAf GFDg | afge fcdf | cAde f2 f :|
+V:2 middle=d clef=bass
+L:1/4
+[fac'] [fac'] [fac'] [fac'] | [fb] [fa] [fb] [fb] | \
+[fac'] [fac'] [fac'] [fac'] | [fac'] [fbd'] [fac'] [fac']/ :: \
+z/ | [fa] [fb] [fa] [fb] | [fb] [fac'] [fb] [fb] | \
+[fac'] [fb] [fa] [fb] | [fa] [fb] [fac'][fac']/ :|
+
+X: 51
+T:the Duke of Richmond
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Air
+Z:Clark Bernst + Richard Robinson
+%%Page:16 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3894
+%%TBL:{"version":1,"type":"tune","id":"3894"}
+K:Bb
+%%staves {1 2}
+V:1
+"^SLOW" \
+!trill!f2{=ef} (e/d/)(c/B/) (A/B/)(G/=E/) ~F2 | (~F>B)(d>B) (f/e/)d/e/ [Fc]2 | \
+!trill!f2 (e/d/)(c/B/) (A/B/)(G/=E/) F2 | (B,/D/F/B/) (d/f/e/d/) !trill![Ac]2 [FB]2 |
+!trill!f2{=ef} (e/d/)(c/B/) (A/B/)(G/=E/) ~F2 | (~F>B)(d>B) (f/e/)d/e/ [Fc]2 | \
+!trill!f2 (e/d/)(c/B/) (A/B/)(G/=E/) F2 | (B,/D/F/B/) (d/f/e/d/) !trill![Ac]2 [FB]2 |]
+{B}!trill!c2 (B/A/)(G/F/) (F/A/)(c/d/) e2 | (d>B) (g>f) (=e/f/)g/e/ f2 | \
+(g/f/g/a/) .b>.B (e/d/e/f/) .g.E | (c>~d) (e>d) c/B/A/G/ {=E}F2 |
+(B>~d) (c>~d) A/G/F/E/ {=B}c2 | (c>~e)(d>~f) e/d/c/B/ f2 | \
+(g/f/g/a/) (b/g/)f/e/ (d/f/g/a/) (b/f/)d/B/ | (B,/D/F/B/) (d/f/e/d/) !trill![Ac]2 [DB]2 |]
+V:2 middle=d clef=bass
+L:1/16
+Bbdb fbdb Bbeb dbBb | [bd']f[bd']f [bd']f[bd']f [ae']f[ae']f [ae']f[ae']f | \
+Bbdb fbdb Bbeb dbBb | B3b [fb]d'c'b f2[c'e']2 [bd']4 | \
+Bbdb fbdb Bbeb dbBb | [bd']f[bd']f [bd']f[bd']f [ae']f[ae']f [ae']f[ae']f | \
+Bbdb fbdb Bbeb dbBb | B3b [fb]d'c'b f2[c'e']2 [bd']4 |]
+[c'e']f[c'e']f [c'e']f[c'e']f [c'e']f[c'e']f [c'e']f[c'e']f |
+[bd']f[bd']f [bd']f[bd']f g[bc'][bc'][bc'] ac'f'd' |  \
+[be']3[be'] d'bf'_a' g'3d' e'ec'b | \
+f'8 f'4e'4 & A,3B, CD3 E4 EFGF | \
+d'^c'd'b agab c'2e'2 afab & F,8F,8 | agac' babd' c'ae'd' d'bc'd' & F,8F,8 | \
+e'2e'2 e'2d'c' d'2b2 b4 & B,2B,2 B,4 B,2E,2 D,4 | b2b2 bd'c'b f2e'2 b4 & B,,2D,2 F,4 F,2C2 B,,4 |]
+
+X: 52
+T:the Earl of Fife
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:16 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3895
+%%TBL:{"version":1,"type":"tune","id":"3895"}
+K:Bb
+%%staves {1 2}
+V:1
+b | \
+f<d-d>!wedge!B     c>de>g         | f<d-d>!wedge!f  g2   (gb)  | \
+f<d-d>!wedge!c    [FB]>c{Bc}dB    | Gc B/A/G/F/    [DB]2 [DB]b |
+f<d-d>!wedge!B     c>de>g         | f<d-d>!wedge!f  g2   (gb)  | \
+[Ff]<d-d>!wedge!c [FB]>c{Bc}[Fd]B | Gc B/A/G/F/     B2 B     & x2 E2 D2 D ||
+d | \
+B>F    G/F/E/D/ F>G Bd & D2-D2D2D2 | f<dB>d   [Ac]2    [Ac]d/c/ | \
+[DB]>F G/F/E/D/ B>c d<b            | f<dc>d   B2       Bd/c/    |
+B>F    G/F/E/D/ F>G Bd & D2D2D4    | f<d[FB]d [Ac]2    ([Fc]e)  | \
+(3def (3gab (3gfe (3dcB            | G>c      A/B/c/A/ B2 B & E2E2D2D |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Bb]  [db]    [fc'] [fac'] | [bd'] [bd'] [be'] [be']   | \
+[bd'] [fb]/e/ [db]  [Bb]   | [Ee]  [Ff]  [Bb]  [Bb]/z/ | \
+[Bb]  [db]    [fc'] [fac'] | [bd'] [bd'] [be'] [be']   | \
+[bd'] [fb]/e/ [db]  [Bb]   | [Ee]  [Ff]  [Bb]  [Bb]/   || \
+z/ | \
+[Bb] [Bb]  [Bb] [Bb]           | [fb]    [fb]    [fc'] [fc']   | \
+[Bb] [_ab] [gb] [fb]/[=eb_d']/ | [fb=d'] [fc'e'] [bd'] [bd]/z/ | \
+[Bb] [Bb]  [Bb] [Bb]           | [fb]    [fb]    [fc'] [Aa]    | \
+[Bb] [eb]  [db] [Bb]           | [Ee]    [Ff]    [Bb]  [Bb]/   |]
+
+X: 217
+T:the Earl of Seafield
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:3/4
+N:Air or maybe a waltz
+O:Scotland
+R:Air
+Z:Clark Bernst + Richard Robinson
+%%Page:8 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4060
+%%TBL:{"version":1,"type":"tune","id":"4060"}
+K:F
+%%staves {1 2}
+V:1 clef=treble
+"^moderato" !f! \
+[Ff]3 [Fc]/f/ [GBe]/d/c/B/                | a3 f/e/ g/f/e/f/ & {A}A3 c c2 | \
+b2 b/a/c'/b/ a/g/f/e/ & c4 c2             | c'4 c3/2^c/ & {a}c4 F2 |
+d2 {de}e2 g3/2f/ & F2 B2 A2               | c2 B2 A2 & G2 G2 F2 | \
+G/A/B/c/ ^c/d/e/d/ d/D/B3/4G// & D2 G2 x2 | F2 E3/2G/ F/E/D/C/ & C2 C4 |
+f3 c/f/ e/d/c/B/ & {F}F3 E B2             | a3 f/e/ g/f/e/f/ & {A}A3cc2 |\
+b2 b/a/c'/b/ a/g/f/e/ & c4 c2             | c'4 c3/2^c/ &{c}c4 F2  |
+d2 {de}e2 {g}f2 & F2 B2 A2                | c2 B2 [CA]F/f/ & G2E2x2|\
+e/d/c/B/ A2 [EA]/G/F3/4G// & F2F2B,2      | [B,CG]4 [A,CF]2 ||
+[CB,E,]>[CB,E,] [CB,E,]2 [CB,E,]2 | b2 {b}a/g/a/b/ a>g | \
+gc ef b>a | a2 g>f f/e/{e}d/c/ & c2c2c2 |
+[F,C]>[F,C] [F,C]2 [F,C]2 | [cc']2 b/a/b/c'/ a>g |\
+gc eg b>a | [cfa]2 [ceg]>c [Fd]/c/=B/c/ |
+fF Ac [cf]>_e | [Bd]>_e [Ac]>d Bd |\
+gG =Bd g>f | [ce]>f [Bd]>e c>d |
+aA cf ag | ba c'=b d'd |\
+f/g/a/b/ a2 [Ba]/g/f3//g// | [Bcg]4 [Acf]2 |]
+V:2 middle=d clef=bass
+L:1/4
+[Ff] [Aa] [cc'] | [Ff] [Aa] [Ff] | [Ee] [Cc] [Bb] | [Aa] [Ff] [Aa] | \
+[Bb] [Gg] [Ff]  | [Ee] [Cc] [Ff] | [Bb] [Gg] [Bb] | [ca] [cg]2 | \
+[Ff] [Aa] [cc'] | [Ff] [Aa] [Ff] | [Ee] [Cc] [Bb] | [Aa] [Ff] [Aa] | \
+[Bb] [Gg] [Ff]  | [Ee] [Cc] [Ff]/[Aa]/ | [Bb] [cc'] [Cc] | F2 x & x C,F, ||\
+C/c/E/c/G/c/ & C,,3           | c/c'/f/c'/a/c'/ & C,3 | \
+[cgbc'] [cgbc'] [cgbc'] | [cfc'] [cec'] [cg] | \
+F/f/c/f/c/f/ & F,,3           | f/f'/[gb]/f'/[ac]/f'/ & F,3 | \
+[be'g'] [be'g'] [ac'g'c''] | c'/c/c'/b/ a/g/ & x2C | \
+[fac'] [fac'] [af'] | [bf'] [c'f'] [d'f'] | \
+[g=bd'] [gd'] [=ba'] | [c'g'][d'g'] [e'g'] | \
+[fc'ef'] [fc'f'] [fc'f'] | [gc'e'] [ac'f'] [bd'f'] | \
+[c'f'a'] [c'f'a'] [cc'] | f3 & x CF |]
+
+X: 107
+T:General Stewart, West Park, Elgin
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:March
+Z:Clark Bernst + Richard Robinson
+%%Page:12 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3950
+%%TBL:{"version":1,"type":"tune","id":"3950"}
+K:C
+%%staves {1 2}
+V:1
+(GA/B/) | \
+c2 G2 E2 C2 | [Ec]2 [Ec]>[Ec] [Ec]2 c~d/e/ | \
+f3e {e}d3c &G4G4 | [GB]2 [Gd]>d d3e |
+{g}(f/e/f/g/) af {c}c'3a & c4c4 | ag{g}f>e a3f & c4c4 | \
+(e/f/)(g/a/) (g/f/)e/d/ [Ec]2 !trill![FB]2 &c2A2x4 | [Ec]2 [Ec]>[Ec] [Ec]3 |]
+G | \
+[Gd]2 [Gd]>[Gd] d3e & x4G4 | dcBA GdBG & G2G2G2G2 | \
+g2 g>g g3a & c2c2c4 | gfed cgec | 
+f2 A2 {A}a3f | ([Gf]e){e}([dG]>c) [Gg]3 [Af] | \
+([ce]/f/)g/a/ ([Ag]/f/)[Ge]/[Fd]/ [Ec]2 c/B/A/B/ & x6FF | [EGc]2 [EGc]>[EGc] [EGc]2 |]
+V:2 middle=d clef=bass
+ga/b/ | \
+c'2g2 e2c2 | c>CE>G c2z2 | GgGg GgGg | gGBd gbd'[g_bc'] | \
+f[ac'][ac'][ac'] f[ac'][ac'][ac'] & F,4F,4 | c[ec'][ec'][ec'] F[ad'][ad'][ad'] & C,4F,4 | \
+[gc']2 [Ff]2 [Gg]2 [Gg]2 | c>CE>G c3 |] \
+z | \
+[d'f']g[d'f']g [d'f']g[d'f']g | [d'f']g[d'f']g [d'f']g[d'f']g | \
+c'ceg cc'cc' | c[ec'][ec'][ec'] c[gbc'][gbc'][gbc'] & C,4 C,4 | \
+f[ac'][ac'][ac'] f[ac'][ac'][ac'] & F,4F,4 | c[ec'][ec'][ec'] ec'Ff & C,4x4 | \
+CcFf GgGg | c>CE>G c2 |]
+
+X: 108
+T:George Skene Duff, of Milton
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:13 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3951
+%%TBL:{"version":1,"type":"tune","id":"3951"}
+K:C
+%%staves {1 2}
+V:1
+B | \
+c2 ce c2 ce & E4E4 | c2    (ec) dDDB | c2 (cG) cagf | ecdB cCCB & G2F2E2x2 |
+c2 ce c2 ce & E4E4 | [Ec]2 (ec) dDDB | c2 (cG) cagf | ecdB cCC & G2F2E2 x |]
+F | \
+(E/F/G) (cG) EcGc | EcGc dDDF | (E/F/G) (cG) EcGe | [Af]a[Bg]>f e<c-c>G |
+(E/F/G) (cG) EcGc | EcGc dDDf | [ca]f[cg]e [Gf]d[Ge]c | [Fc]A [B,G]>F !trill!E>D C |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[cgc'] [cgc'] [cgc'] [cgc'] | [cgc'] [cgc'] [Gg] [Gg] | \
+[cgc'] [cgc'] [fac'] [fac'] | [Gg] [Gg] [Cc] [Cc] | \
+[cgc'] [cgc'] [cgc'] [cgc'] | [cgc'] [cgc'] [Gg] [Gg] | \
+[cgc'] [cgc'] [fac'] [ec']/f/ | [Gg] [Gg] [Cc] [Cc]/ |] \
+z/ | \
+[Cc] [Cc] [Cc] [Cc] | [Cc] [Cc] [Gg] [Gg] | \
+[Cc] [Cc] [Cc] [Cc] | [Ff] [Gg] [Cc] [Cc] | \
+[Cc] [Cc] [Cc] [Cc] | [Cc] [Cc] [Gg] [Gg]/z/ | \
+[Ff] [Ee] [Bb] [Cc] | [Ff] [Gg] [Cc] [Cc]/ |]
+
+X:4
+T:James Duff M.P.
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:6 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4067
+%%TBL:{"version":1,"type":"tune","id":"4067"}
+K:F
+%%staves {1 2}
+V:1
+fc ~!=!c2 dB ~B2 & F2 x2 F4 | bagf (eg) ~!=!c2 & d4 x4 | \
+fc ~!=!c2 (dB)Bd & F4    F4 | c>BAG F2 F2 & E4 A,2 A,2 :| \
+Ffef dBBd & F4 F4 | Gg^fg ecce |  Ffef dBBd | c>BAG  F2 F2 & F2 B,2 A,2 A,2 |\
+Ffef dBBd & F4 F4 | Gg^fg ecce |  Ffef dBBd | c>BA>G F2 F2 & F2 B,2 A,2 A,2 |]
+V:2 middle=d clef=bass
+L:1/4
+[Ff] [Aa] [Bb] [Bb] | [Gg] [=B=b] [cc'] [cc']  | [Aa] [Ff] [Bb] [Bb] | [cc'] [cc'] [Ff] [Ff] :| \
+[Ff] [Aa] [Bb] [Bb] | [Gg] [=B=b] [cc'] [_B_b] | [Aa] [Ff] [Bb] [Bb] | [cc'] [Cc] [Ff] [Ff] | \
+[Ff] [Aa] [Bb] [Bb] | [Gg] [=B=b] [cc'] [_B_b]  | [Aa] [Ff] [Bb] [Bb] | [cc'] [Cc] [Ff] [Ff] |]
+
+X: 225
+T:the Lady Agnes Duff
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:8 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4068
+%%TBL:{"version":1,"type":"tune","id":"4068"}
+K:F
+%%staves {1 2}
+V:1
+a | \
+f<ff>c AFFa | f<ff>c g2 ga | \
+f<ff>c dfcA | B>dc>e f2 f & F2B2A2A:|
+d | \
+c<Fc>A F>cA>c | B>d A<c G>AB>d | \
+c<Fc>A F>Ac>A | B<cc>e f2 fd & F2B2A2Ax|
+c<Fc>A F>cG>c | B>dA>c GABd & F2F2E4 |\
+A<FG>A B>cd>B | [Ac]>f[Be]>g [Af]2 [Af] |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[fac'] [fac'] [fac'] [fac'] | [fac'] [fac'] [cgc'] [cgc'] | \
+[fac'] [fac'] [fbd'] [fac'] | [Bb] [Cc] [Ff] [Ff]/ :| \
+z/ | \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Ff] [Cc] [Cc] | \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Cc] [Ff] [Ff] | \
+[Ff] [Ff] [Ff] [Ff] | [Ee] [Ff] [cc'] [cc'] | \
+[Ff] [=E=e] [Dd] [Bb] | [Cc] [Cc] [Ff] [Ff]/ |]
+
+X:5
+T:Lady Alexis Russell
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+N:I'm not quite sure of the title. "Alex" plus some abbreviation.
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:3 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4069
+%%TBL:{"version":1,"type":"tune","id":"4069"}
+K:F
+%%staves {1 2}
+V:1
+A | \
+~F2 (fc) Ac-c!wedge!f | dfcf !trill!gf-fa | \
+~F2 (fc) Ac-c!wedge!f | d/f3/!trill!c3/A/ {F}G2 G :: \
+a | \
+bgaf {a}gfdf | 
+               cfAf cfAa |1 \
+bgaf {a}gfdf | c/A3/fA {F}G2 G :|2 \
+dbca BgAf | c/A3/fA {F}G2 G |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Aa] [cc'] [cc'] | ffff | [Bb] [Aa] [cc'] [cc']/ :: \
+z/ | \
+[egc'] [fac'] [fbd'] [fbd'] | [fac'] [fac'] [fac'] [fac'] |1 \
+[egc'] [fac'] [fbd'] [fbd'] | [fac'] [fac'] [cc'] [cc']/ :|2 \
+[fb] [fa] [ec'] [fc'] | [fac'] [fac'] [cc'] [cc']/ |]
+
+X:6
+T:Lady Beatrice Hamilton
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:2 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4070
+%%TBL:{"version":1,"type":"tune","id":"4070"}
+K:F
+%%staves {1 2}
+V:1
+FAcA fAcA | FAcA (dc)(BA) | FAcA fAcA | Ggbg (!trill!fe)(dc) :: \
+Ffef dfcf | 
+                  cfaf (dc)(BA) |1 \
+Gg^fg    dgBg   | dgbg (!trill!fe)(dc) :|2 \
+[Fd]BBd [Fc]AAc | Ggbg (!trill!fe)(dc) |]
+V:2 middle=d clef=bass
+L:1/4
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Ff] [Ff]  | \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Gg] [cc'] [cb] :: \
+[Ff] [fa] [fb] [fa] | x3 d'/c'/  & [F,A,] [F,A,] [F,A,] F, & |1 \
+[bd'] [bd'] [gbd'] [gbd'] | [gbd'] [gbd'] [gbc'] [gbc'] :|2\
+[Bb] [Bb] [Ff] [Ff] | [Bb] [Gg] [cc'] [cc'] |]
+
+X: 59
+T:Lady Duff of Delgaty
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:22 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3902
+%%TBL:{"version":1,"type":"tune","id":"3902"}
+K:Bb
+%%staves {1 2}
+V:1
+G | \
+FB, (G/F/E/D/) FB,DB, | CDEF GCEG | \
+FB, (G/F/E/D/) FB,DF | GBAc {Bc}d<BB :|
+f | \
+dfBf df (e/d/c/B/) | egcf egab | \
+dfBf df (e/d/c/B/) | GBAc {Bc}d<BBf |
+dfBf df (e/d/c/B/) | egcf egab | \
+fbfd gecd | FGAB d<BB |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[B,B][B,B][B,B][B,B] | [Cc][C][C][C] | [B,B][B,B][B,B][B,B] | [Ee][Ff][B,B][B,B]/ :| \
+z/ | \
+[Bb][Bb][Bb][Bb] | [Ee][Ee][Cc][Cc] | [B,B][B,B][B,B][B,B] | [Ee][Ff][Bb][Bb] | \
+[Bb][Bb][Bb][Bb] | [Ee][Ee][Cc][Cc] | [Dd][B,B][Ee][Ee] | [Ff][Ff][B,B][B,B]/ |]
+
+X: 60
+T:Lady Forbes of New & Edinglassie
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Air
+Z:Clark Bernst + Richard Robinson
+%%Page:20 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3903
+%%TBL:{"version":1,"type":"tune","id":"3903"}
+K:Bb
+%%staves {1 2}
+V:1
+"^Moderately SLOW with expression" \
+de | \
+[df]3~[eg] [df][fd'][ec'][db] | agfe {e}d3e &c4x4 | \
+f2 [dfb]2 [dbf-]2 (~[fb]c'/d'/) | (f'3.c') c'2 de | 
+[df]3~[eg] ([df]d'c'b) | (agfa) c'3 b | (ba)gf ([ca][Bg])[Af][G=e] | {[Bg]}[Af]4 z2 |]
+f2 | \
+f2 ~gd e3 d | (c/d/e/f/ g).[_DB] [=DFB]2- [CfA].F | \
+(BG) ~d2 (cF) ~c2 | ((de/)f/ g/f/)e/d/ [Bd]2 [Ac] z |
+f2 ~gd e3 d | (c/d/e/f/ g).B [FB]2- [FA]F | \
+(B/F/G/A/ B/c/d/e/) (f/e/d/e/ f/g/a/b/) | {F}[FBd]2 {e}[EAc]>[DB] !fermata![GB]2 |]
+V:2 middle=d clef=bass
+L:1/4
+z | \
+BbB2 | fg/a/bc' | [bd'][fd'][fd']-[fd']/c'//b// | f'/f/f'/=e'/ f'/_e'/d'/c'/ | \
+[bf']2-[bf']/[bd']/[c'e']/[d'f']/ | [fc'f']3 [gbc'e'] | \
+[ff']ac'C | z//f//c'//=e'// f'z |] \
+z | \
+[bd'f'][=bd'g'][c'e'g']=b | [ac'f']e/=e/ f>e | d>B [Aa]>[Ff] | [Bb]>d f>e' | \
+[bd'] e'/=b/ c'/_b/a/b/ | [ec'][=ec']d'c' &x2F,>E, | \
+[db][cefa][Bfb]>d | f[Ff]!fermata![B,B] |]
+
+X:7
+T:Lady Heriet Georgina Hamilton
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:2 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4064
+%%TBL:{"version":1,"type":"tune","id":"4064"}
+K:F
+%%staves {1 2}
+V:1
+d | \
+c3/F/A3/F/ d2 df | c3/F/A3/F/ [Fd]G[EG]f | \
+c3/2F/A3/2F/ d2 df | b/a/g/f/ c/d/e/g/ fFF :|
+f | \
+b/a/g/f/ af g/f/e/d/ cA | B3/c/ d/c/B/A/ BGGf | \
+b/a/g/f/ g/f/e/d/ cAAd | [Ac]f[Be]g [ca]ffg |
+b/a/g/f/ a/g/f/e/ g/f/e/d/ cA | [FB]3/c/ d/c/B/A/ [EB]GGA | \
+F/G/A/B/ cA d2 Bd | EG!trill![Ec]3/B/ AF[A,F] |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ff] [Ff] [Bb] [Bb] | [Aa] [Ff] [Bb] [cc'] | \
+[Aa] [Ff] [Bb] [Bb] | [Bb] [cb] [fa] [Ff]/ :| \
+z/ | \
+[fac'] [fac'] [fbd'] [fac'] | [fbd'] [fac'] [cc'] [cc'] | \
+[fac'] [fbd'] [fac'] [fac'] | [fc'] [cc'] [fac'] [fac'] | \
+[fac'] [fac']  [fbd'] [fac'] | d'3//c'//b c'c' & F,2CC | \
+[fac'] [fac'] [fbd'] [fbd'] | [cc'] [cc'] [Ff] [Ff]/ |]
+
+X: 231
+T:Lady Louisa Hamilton
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:7 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4074
+%%TBL:{"version":1,"type":"tune","id":"4074"}
+K:F
+%%staves {1 2}
+V:1
+(f | \
+c)FcA cFfd | cFcA dGG(f | c)FcA fgaf | dfcA G3 |]
+e | \
+fgag fFF(A | f)gaf bgga | fgaf gefc | dfcA G3 |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Bb] [Cc] | \
+[Ff] [Ff] [Aa] [Aa] | [Bb] [Ff] [Cc]3/ |] \
+z/ | \
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Cc] [Cc] | \
+[Ff] [Ff] [Bb] [Aa] | [Ff] [Ff] [Cc]3/ |]
+
+X: 63
+T:Lady McNeil
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:19 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3906
+%%TBL:{"version":1,"type":"tune","id":"3906"}
+K:Bb
+%%staves {1 2}
+V:1
+!trill!B2 (FD) GEBG | FDGE (ED)(CB,) | {f}edef (gf)(ed)       | cBAG       FGAF  |
+       B2 FD   GEBG | FDG>E ED{D}CB, | d2   b2 agfe    & x4B4 | [Ed]c[EB]A [DB]4 |]
+edef    gfed | cBcd  edcB     | AFGA  Bcde        | gfed       {d}[cA]4 |
+B2 (FD) GEBG | FDGE (ED)(CB,) | d2 b2 agfe & x4B4 | [Ed]c[EB]A [DB]4    |]
+V:2 middle=d clef=bass
+L:1/4
+[Bb] [Bb] [Beb] [Beb] | [Bdb] [Beb] [Bfb] [Bfb] | [Cc] [Cc] [Ee] [Ee] | [Ff]  [Ff] [Ff] [Ff] | \
+[Bb] [Bb] [Beb] [Beb] | [Bdb] [Beb] [Bb]  [Bb]  | [Bb] [Bb] [Ee] [Ee] | [Ff]  [Ff] [B,B]2 |]
+[Cc] [Cc] [Ee]  [Ee]  | [Ff]  [Ff]  [Bb]  [Bb]  | [Ff] [Ee] [Dd] [Cc] | [B,b] [Dd] [Ff] [Ff] | \
+[Bb] [Bb] [Beb] [Beb] | [Bdb] [Beb] [Bfb] [Bfb] | [Bb] [Bb] [Ee] [Ee] | [Ff]  [Ff] [B,B]2 |]
+
+X: 115
+T:Lady Menzies of Castle Menzies
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:6/8
+O:Scotland
+R:Jig
+Z:Clark Bernst + Richard Robinson
+%%Page:12 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3958
+%%TBL:{"version":1,"type":"tune","id":"3958"}
+K:C
+%%staves {1 2}
+V:1
+G |: \
+c3  {dcBc}edc | BAG {^c}d3 | c3~ edc | {eg}fef agf | 
+e2c {d}cBc    | ABc {^c}d3 | GAB cde | fed gfe ::
+f2A agf | {f}e>dc {^f}g3 | E2g {f}e>dc | a2[Ff] [Aa][Gg][Ff] | 
+(G,C)!wedge!E (Gc)!wedge!e | FAd ~f2a | gfe fdB | GAB cde :|
+V:2 middle=d clef=bass
+z |: \
+cgc' cgc' & C,3 C,3 | dgb dgb & D,3 D,3 | \
+cgc' cgc' & C,3 C,3 | fac' fac' & F,3 F,3 | \
+cgc' cgc' & C,3 C,3 | fac' fgb & F,3 F,3 | \
+fgb egc' | dgb cgc' :: \
+f[ac'][ac'] f[ac'][ac'] & F,3 F,3 | c[gc'][gc'] c[gc'][gc'] & C,3 C,3 | \
+ c[gc'][gc'] c[gc'][gc'] & C,3 C,3 | f[ac'][ac'] f[ac'][ac'] & F,3 F,3 | \
+c[eg][eg] e[gc'][gc'] & C,3E,3 | f[bd'][bd'] f[bd'][bd'] | \
+g[c'e'][c'e'] g[d'f'][d'f'] & G,3 G,3 | g[d'f'][d'f'] [c'e'g']2[c'e'g'] :|
+
+X: 234
+T:Lady Rachael Russell
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:7 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4077
+%%TBL:{"version":1,"type":"tune","id":"4077"}
+K:F
+%%staves {1 2}
+V:1
+F>F (!trill!FA/B/) (!trill! cd/e/) fA | G<GG>A B>c d<f | \
+F<F !trill! FA/B/   !trill! cf/g/ ag | f<d!trill!c>A G>A B<d :|
+c<fA<f cf d/c/B/A/ | cfAf GABd | \
+cfAf cf{fg}a>g | fc d/c/B/A/ G>A B<d |
+c<fA<f cf d/c/B/A/ | cfAf GABd | \
+(3(ba)!wedge!g (3(ag)!wedge!f g/f/e/d/ d/c/B/A/ | !trill!B>c d/c/B/A/ G>A B<d |]
+V:2 middle=d clef=bass
+L:1/4
+[fac'] [fac'] [fac'] [fac'] | c' [bc']/a/ g/[fa]/ [fb] | \
+[fac'] [fac'] [fac'] [fac'] | [fb] [fa] [cc'] [cc'] :| \
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Cc] [Cc] | \
+[Ff] [Ff] [Aa] [Aa] | [Aa] [Bb] [cc'] [cc'] | \
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Cc] [Cc] | \
+[Ee] [Ff] [Bb] [Aa]/[Ff]/ | [Dd] [Bb] [Cc] [Cc] |]
+
+X: 188
+T:Lewis Ricardo, M.P.
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:19 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4031
+%%TBL:{"version":1,"type":"tune","id":"4031"}
+K:Eb
+%%staves {1 2}
+V:1
+G3//F// | \
+E<G,B,>G, B,>EG>E | B>G A/G/F/E/ G>F FG/F/ | \
+E<G,B,>G, G<E{E}e>c | B>G B/A/G/F/ [G,E]2 [G,E]
+G3//F// & E2D2x4 | \
+E<G,B,>G, B,>EG>E | B>G (A/G/)(F/E/) G>F FG/F/ | \
+E<G,B,>G, G<E{E}e>c | B>G B/A/G/F/ [G,E]2 [G,E] & E2F2x4 |]
+c/d/ | \
+eEGB (e/f/)g/a/ be | (cf)(f>e) (ed)(cd) | \
+.e.E.B.E .G.B.e.G | (F/E/)(D/C/) (B,/C/)D/B,/ [G,E]2 [G,E] 
+c/d/ | \
+eEGB e/f/g/a/ be | (cf)(f>e) (ed)(c>d) | \
+e>g (f/e/)d/c/ (B/A/)G/F/ E>B, | [A,C]>A,[A,C]>D [G,E]2 [G,E] |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ee][Ee][Ee][Ee] | [Ee][Ee][Bb][Bb] | [Ee][Ee][Ee][Aa] | [Bb][Bb][Ee][Ee]/z/ | \
+[Ee][Ee][Ee][Ee] | [Ee][Ee][Bb][Bb] | [Ee][Ee][Ee][Aa] | [Bb][Bb][Ee][Ee]/ |] \
+z/ | \
+[egb][egb][gbe'][gbe'] | [ac'f'][=ac'f'][bd'f'][=abf'] | \
+[gbe'] [egb][egb][egb] | [Bfa][Bfa][Ee][Ee]/z/ | \
+[egb][egb][gbe'][gbe'] | [ac'f'][=ac'f'][bd'f'][=abf'] | \
+[gbe'][ee'][Ee][Ee]    | [Bb][Bb][Ee][Ee]/ |]
+
+X: 150
+T:Linlithgow Loch
+T:Provost Dawson's Favorite
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:25 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3993
+%%TBL:{"version":1,"type":"tune","id":"3993"}
+K:D
+%%staves {1 2}
+V:1
+F | \
+D>E D<A F<DA<F | D>E      D<F [A,E]2 [A,E]<F | \
+D>E D<A F<DA<F | d/c/d/e/ f<d F2 F :|
+G |\
+d>e f<d e>BdA  | Bcd<f        e2 e>f | \
+d>e f<d e>Bd>A | G<BF<A       E2 E>A |
+d>efd e>B d<A  | B>c d<f      e2 e>f | \
+g>e (g/f/e/)d/ (f/e/d/)c/ d>A & A2A2G2F2 | G<BF<A [CE]2 [CE] |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Dd][Dd][Dd][Dd] | [Dd][Dd][A,A][A,A] | [Dd][Dd][Dd][Dd] | [Dd][Dd][Dd][Dd]/ :| \
+z/ | \
+[dfd'][dfd'][dgd'][dfd'] | [dgd'][dfd'][Aa][Aa] | \
+[dfd'][dfd'][dgd'][dfd'] | [Gg][Dd][Aa][Aa] | \
+[dfd'][dfd'][dgd'][dfd'] | [dgd'][dfd'][Aa][Aa]/ z/ | \
+[Cc][Dd]/[Ff]/[Aa][dd'] | [Gg][Dd][Aa][Aa]/ |]
+
+X: 236
+T:Lord Francis Russell
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:7 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4079
+%%TBL:{"version":1,"type":"tune","id":"4079"}
+K:F
+%%staves {1 2}
+V:1
+A | \
+!trill!F2 FA cfcA | cfcA BGGA | !trill!F2 FA cfag | fd!trill!cB AFF ||
+a | \
+bagf   egfe  | fdcA BGGa | bagf         egfe | fdcB AFF(a |
+b)agf (eg)fe | fdcA BGGA | !trill!F2 FA cfag | fd!trill!cB AFF |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ff] fff | [Ff]f[Cc]c | Ff[A,A][A,A] | [Bb] [cc'] [Ff][Ff]/ || \
+z/ | \
+[fac'] [fac'] [fb] [fb] | [fa] [fac'] [cgc'] [cgc'] | \
+[fac'] [fac'] [fb] [fb] | [Bb] [cc'] [Ff] [Ff] | \
+[fac'] [fac'] [fbd'] [fbd'] | [fbd'] [fac'] [cc'] [cc'] | \
+[fac'] [fac'] [fac'] [fac'] | [Bb] [cc'] [Ff] [Ff]/ |]
+
+X: 66
+T:Lord John Russell
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:21 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3909
+%%TBL:{"version":1,"type":"tune","id":"3909"}
+K:Bb
+%%staves {1 2}
+V:1
+f | \
+(ed)(cA) BFBd | GBFD C2 Cf | (ed)(cA) BFBd | GBFD !trill!B,2 B, :|
+E | \
+(DE/F/) B,F DFB,F | BFdB ~c2 (cd) | (DE/F/) (B,F) DFEG | FBAc ~B2 (Bd) |
+(DE/F/) (B,F) DFB,F | BFdB ~c2 (ce) | dfeg fBdB | [EA]FGA !trill![DB]2 [DB] |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Bdb][Beb][Bdb][Bdb] | [Beb][Bdb][Fcf][Fcf] | [Bdb][Beb][Bdb][Bdb] | [Beb][Bdb][Bdf][Bdf]/ :| \
+z/ | \
+[B,B][B,B][B,B][B,B] | [B,B][B,B][Ff][Ff] | [B,B][B,B][B,B][Gg]/[Ee]/ | [Ff][Ff][B,B][B,B] | \
+[B,B][B,B][B,B][B,B] | [Dd][B,B][Ff][Aa] | [_A_a][Gg]/[Ee]/[Dd][B,B] | [Ff][Ff][B,B][B,B]/ |]
+
+X: 118
+T:the Marchioness of Breadalbane
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:15 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3961
+%%TBL:{"version":1,"type":"tune","id":"3961"}
+K:C
+%%staves {1 2}
+V:1
+G | \
+c2 (!trill!cB/A/) GcGE | FDEC A,DB,G, | c2 (!trill!cB/A/) GcGE | DdBG c2 (cG) | 
+c2 (!trill!cB/A/) GcGE | FdEc DdBG    | c2 (!trill!cB/A/) GcGE | DfdB c2 c ||
+e/f/ | \
+[cg]ege [ca]faf | [cg]edc BdBG | [cg]ege [ca]faf | AdBG c2 ce/f/ | 
+[cg]ege [ca]faf | [cg]edc BdBG | AFcA GEcE | DfdB c2 c |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Cc] [Cc] [Cc] [Cc] | [Bg] [cg] [Ff] [Gg] | [Cc] [Cc] [Cc] [Cc] | [Ff] [Gg] [Cc] [Cc] | \
+[Cc] [Cc] [Cc] [Cc] | [Bb] [Cc] [Ff] [Gg] | [Cc] [Cc] [Cc] [Cc] | [Ff] [Gg] [Cc] [Cc]/ || \
+z/ | \
+[c'e'] [c'e'] [c'f'] [c'f'] | [c'e'] [c'e'] [gd'] [gd'] | \
+[ec'] [ec'] [fc'] [fc'] | [fd'] [gd'] [c'e'] [c'e'] | \
+[c'e'] [c'e'] [c'f'] [c'f'] | [c'e'] [c'e'] [gb]3/ [Ee]/ | \
+[Ff] [Ff] [Cc] [Cc] | [Ff] [Gg] [Cc] [Cc]/ |]
+
+X: 70
+T:the Marchioness of Normanby
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:6/8
+O:Scotland
+R:Jig
+Z:Clark Bernst + Richard Robinson
+%%Page:17 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3913
+%%TBL:{"version":1,"type":"tune","id":"3913"}
+K:Bb
+%%staves {1 2}
+V:1
+f |: \
+(df)!wedge!d B3 | (df)!wedge!d B3 | GAB cde | dcB AGF | \
+(df)!wedge!d B3 | (df)!wedge!d B3 | efg gab | ag=e f3 :|
+F2 F FGA | Bcd e2 c | B2B Bcd | ede    g2 f | \
+E2 g g2b | D2f f2 b | dcB FGA | [DB]3 [DB]2 d ||
+F2 F FGA | Bcd e2 c | B2B Bcd | ede    g2 f | \
+b2 B fga | b2B g2 f | d2B FGA | [DB]3 [DB]3 |]
+V:2 middle=d clef=bass
+z |: \
+Bfb Bfb | Bfb Bfb | [E]2[Dd] [Cc]2[Aa] | [Bb]2[Dd] [Ff]3 | \
+Bfb Bfb | Bfb Bfb | egb egb | cgb [fa]3 :| \
+f3 f2e' | d'c'b a2e' & F,3 F,3 | d'2d' d'c'b & F,2F,3 | [gb]2[gb] [eb]2[db] | \
+egb egb | Bfb Bfb | fbd' fc'e' | Bfb B2z | \
+f3 f2e' | d'c'b a2e' & F,3F,2x | d'2d' d'c'b & F,3F,3 | [gb]2[gb] [eb]2[db] | \
+Bfb Bfb | Bfb dfb | fbd' fc'e' | Bdf b3 |]
+
+X: 237
+T:Master Frank Romily
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:11 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4080
+%%TBL:{"version":1,"type":"tune","id":"4080"}
+K:F
+%%staves {1 2}
+V:1
+cAFA cecA | dfcA G/G/G G2 | cAFA cbag | f<dc>!trill!A F/F/F F2 | 
+cAFA cecA | dfcA G/G/G G2 | cAFA cbag | f<dc>!trill!A F/F/F F2 |]
+~f>g a<g fdcf | dfca g/g/g g2 | \
+f>g a<g fdcf | d<f!trill!c>A F/F/F F2 | 
+~f>g a<g fdcf | dfca g/g/g g2 | \
+f>g a<g bgec | d<fc>!trill!A F/F/F F2 |]
+V:2 middle=d clef=bass
+L:1/4
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Ff] [cc'] [cc'] | [Ff] [Ff] [Ee] [Ff] | [Bb] [cc'] [Ff] [Ff] | \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Ff] [cc'] [cc'] | [Ff] [Ff] [Ee] [Ff] | [Bb] [cc'] [Ff] [Ff] |] \
+[fac'] [fac'] [fbd'] [fac'] | [fbd'] [fac'] [cc'] [cc'] | \
+[fac'] [fac'] [fb]   [fac'] | [fbd'] [fac'] [fac'] [fac'] | \
+[fac'] [fac'] [fbd'] [fac'] | [fbd'] [fac'] [cc'] [cc'] | \
+[fac'] [fac'] [egc'] [gbc'] | [fbd'] [fac'] [fac'] [fac'] |]
+
+X: 238
+T:Master John Romily
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+N:In the bass line, bar 3 of the 1st part is marked with an "8" underneath,
+N:with dotted lines indicating that it continues to apply up to the end of bar 5 of the second part.
+N:I can't find an ABC notation for this, and am not sure what it's intended to mean;
+N:the context suggests, double the notes an octave below ?
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:11 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4081
+%%TBL:{"version":1,"type":"tune","id":"4081"}
+K:F
+%%staves {1 2}
+V:1
+B |\
+(Ac)fc {B}!trill!A2 FA | gaba gGGB | (Ac)fc {B}!trill!A2 FA | EGcB AFF :|
+e | \
+fcAf cfaf | dgba gGGe | fcAf cfAf | EGcB AFFA |
+fcAf cfaf | dgba gGGg | bgaf (ag)(fe) | fdc!trill!B AFF |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Bb] [cc'] [cc'] | "_8 ..." ffff | c'c'ff/ :| \
+z/ | \
+ffff | BBcc | ffff | ccff | fff "_...end of \"8\" marking" f | [B,B] [B,B] [Cc] [Cc] | \
+[Ee] [Ff] [Gg] [Aa] | [Bb] [cc'] [Ff] [Ff]/ |]
+
+X: 241
+T:Miss Catherine Stewart, Pettyvaich
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:12/8
+O:Scotland
+R:Jig
+Z:Clark Bernst + Richard Robinson
+%%Page:9 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4084
+%%TBL:{"version":1,"type":"tune","id":"4084"}
+K:F
+%%staves {1 2}
+V:1 clef=treble
+F2d cAF GAF E2C | F2d cAF cde f2c | \
+def cAF GAF E2G | F2d cAF CDE [CF]3 :|
+fcf agf egb bge | fcf agf efg cBA |\
+dBd cBA [DG]A[G,=B,F] [G,_B,E]D[F,C] & F3 F3 x6 | F2 d cAF CDE F3 & x6 [G,B,]3 C3 |
+fcf agf egb bge | fcf agf efg cBA |\
+dBd cBA [DG]A[G,=B,F] [G,_B,E]D[F,C] & F3 F3 x6 | F2 d cAF CDE F3 & x6 [G,B,]3 C3 |]
+V:2 middle=d clef=bass
+fac' fac' cgc' cgc' | fbd' fac' fac' fac' | fbd' fac' egc' cgc' | fbd' fac' cgb [fa]3 :| \
+fac' fac' cgc' cgc' | fac' fac' fbd' fac' | \
+[Bb]2[Bb] [Aa]2[Ff] [B,B]2[G,G] [Cc]2[A,A] | [B,B]2[B,B] [A,A]2[F,F] c3 [Fc]3 | \
+fac' fac' cgc' cgc' | fac' fac' fbd' fac' | \
+[Bb]2[Bb] [Aa]2[Ff] [B,B]2[G,G] [Cc]2[A,A] | [B,B]2[B,B] [A,A]2[F,F] c3 [Fc]3 |]
+
+X: 242
+T:Miss Farquharson of Invercauld
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:6 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4085
+%%TBL:{"version":1,"type":"tune","id":"4085"}
+K:F
+%%staves {1 2}
+V:1
+F | \
+[A,C]<FF>G [CA]>GA>F | D<GGA B2 A>c | \
+d>f c<f A>F G<A & F4 C2C2 | C>FE>G F2 FF & C2B,2A,2A,2 |
+[A,C]<FF>G [CA]>G[CA]>F | D<GGA B2 A>c | \
+d>f c<f A>F G<A & F4C2C2 | C>FE>G F2 F & C2B,2A, |]
+(e | \
+f)>c f<a f>cfa | f>c f<a g2 (ga) | \
+f<cc>A f>b a<g | f<dc>A G2 (G>g) |
+f>c c<a fcc(a | f)cfa g2 (ga) | \
+f>c c<G f>ba>g | f<dc>A G2 G |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Bb]/[Aa]/ [Gg] [Ff] | \
+[Bb] [Aa] [Ff] [Ff] | [Cc] [Cc]      [Ff] [Ff] | \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Bb]/[Aa]/ [Gg] [Ff] | \
+[Bb] [Aa] [Ff] [Ff] | [Cc] [Cc]      [Ff] [Ff]/ |] \
+z/ | \
+[fac'] [fac'] [fac'] [fac'] | [fac'] [fac'] [cc'] [cc'] | \
+[fac'] [fac'] [dd']  [Bb]   | [Ff] [Ff] [Cc] [Cc] | \
+[fac'] [fac'] [fac'] [fac'] | [fac'] [fac'] [cc'] [cc'] | \
+[fac'] [fac']  [dd'] [Bb]   | [Ff] [Ff] [Cc] [Cc]/ |]
+
+X: 243
+T:Miss Georgina B. Stewart, West Park, Elgin
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:9 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4086
+%%TBL:{"version":1,"type":"tune","id":"4086"}
+K:F
+%%staves {1 2}
+V:1
+F2 DF A,FCF | cAFA G/G/G G2 | F2 DF A,FCF | f<dc>A F/F/F F2 | 
+F2 DF A,FCF | cAFA G/G/G G2 | F2 DF A,FCF | f<dc>A F/F/F F2 |] 
+f2 af fcbg | f2 af ecge  | f2 af g2 bg | afce [Af]/f/f f2 & x2B2x4 | 
+f2 af fcbg | f2 af ecf>c | dBfB cAfA | [A,C]F[B,E]G [A,F]/[A,F]/[A,F] [A,F]2 |]
+V:2 middle=d clef=bass
+L:1/4
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Cc] [Cc] | \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Cc] [Ff] [Ff] | \
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Cc] [Cc] | \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Cc] [Ff] [Ff] |] \
+[fac'] [fac'] [cgc'] [cgc'] | [fac'] [fac'] [cgb] [cgb] | \
+[fac'] [fac'] [egc'] [egc'] | [fac'] [fac'] [Ff] [Ff] | \
+[fac'] [fac'] [cgc'] [cgc'] | [fac'] [fac'] [cc'] [Aa] | \
+[Bb] [Dd] [Ff] [Ff] | [Cc] [Cc] [Ff] [Ff] |]
+
+X: 244
+T:Miss Gordon of Liverpool
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:9/8
+N:Titled just as "Jig"
+O:Scotland
+R:Slip Jig
+Z:Clark Bernst + Richard Robinson
+%%Page:10 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4087
+%%TBL:{"version":1,"type":"tune","id":"4087"}
+K:F
+%%staves {1 2}
+V:1
+C | \
+{E}[A,CF]3 [CF]2 ~d cAF | (E/F/G)[EG] [DG]AF E2 C | \
+{E}[A,CF]3 [CF]2 d cde  | (d/e/f)!wedge!d (e/f/g)!wedge!e f2 :|
+g | \
+afc bge afc | def gaf !trill!e2c | afc bge afc | C2F (E/F/G)!wedge!E F2 !trill!f |
+afc bge afc | def gaf edc | dBf cAf cAF | !trill!C2 F (E/F/G)!wedge!E [A,F]2 |]
+V:2 middle=d clef=bass
+z | \
+[Ff]3 [fa]2b [fa]2[fa] | [cc']2[cc'] [=B=b]2[Gg] [cc']2[_B_b] | \
+[Ff]3 [da]2b [fa]3     | [fb]2[fb] [gbc']2[gbc'] [fac']2 :| \
+z | \
+fac' egc' fac' | b2a g2=b c'2_b | fac' egc' fac' | [fa]2[fa] [fb]2[fb] [fa]3 | \
+fac' egc' fac' | b2a g2=b c'2a  | [fb]2[fb] [fa]2[fa] [fa]3 | [cfa]2[cfa] [cgb]2[cgb] [Ff]2 |]
+
+X:8
+T:Miss Gordon of Park
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:6/8
+O:Scotland
+R:Jig
+Z:Clark Bernst + Richard Robinson
+%%Page:5 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4088
+%%TBL:{"version":1,"type":"tune","id":"4088"}
+K:F
+%%staves {1 2}
+V:1
+F2F c/A3/F | F3/G/F [Fd]3  | c/A3/F F2A          | G/E3/C    C3/D/E | \
+F2F c/A3/F | F3/G/F {A}a2a | gaf    efd & c3 G3  | [Gc]d[FB] [FA]B[CG] | 
+F2F c/A3/F | F3/G/F [Fd]3  | c/A3/F F2A          | GEC        CDE | \
+F2F cAF    | F3/G/F {A}a2a | [cg]a[cf] [ce]f[Fd] | c3         c3 |]
+c2c   gec | cdc    c2[ca]    | [cb]2g [ca]2f    | [cg]2f edc | \
+c2c   gec | cdc    [cb]3     | [ca]gf cde       | f3     F2c |
+c2c   gec | c3/d/c c2[ca]    | [cb]2g [ca]2f    | [cg]2f edc | \
+[Af]3 cAc | [Fd]3  [FB]2[Fd] | cba    [Bg]f[Be] | fcA    [Ff]3 |]
+V:2 middle=d clef=bass
+fac' fac' | fac' fbd' | fac' fac' | cgb cgb | \
+fac' fac' | fac' fac' | [ec']2[fc'] [gc']2[gd'f'] | [c'e']2[fd'] [fc']2[cgb] | \
+fac' fac' | fac' fbd' | fac' fac' | cgb cgb | \
+fac' fac' | fac' fac' | [ec']2[fc'] [gc]2[Gg] | ceg c'3 |] \
+ebc' ebc' | fac' fac' | egc' fac' | cgc' cgc' | \
+egc' egc' | egc' egc' | fac' cgb | fac' f2z | \
+ebc' ebc' | fac' fac' | egc' fac' | cgb cgb | \
+fac' fac' | Bdf b2B | cgc' cgc' | fac' f3 |]
+
+X:9
+T:Miss Grace Menzies
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:4 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4089
+%%TBL:{"version":1,"type":"tune","id":"4089"}
+K:F
+%%staves {1 2}
+V:1
+f | \
+c/F3/ c3/A/ c/F3/ c3/A/ | c/F3/ c3/A/ {AB}c2 ce | \
+f/a3/ d3/f/ c/f3/ A/f3/ | GG B3/c/ {Bc}d2 d3/f/ & E2 F2 F2 F2 |
+c/F3/ c3/A/ c/F3/ c3/A/ | c/F3/ c3/A/ {AB}c2 ce | \
+f/a3/ d3/f/ c/f3/ A/f3/ | GG B3/c/ {Bc}d2 d & E2 F2 F2 F |]
+f | \
+c/f3/ Af    c/f3/ A/f3/ | c/f3/ A/B3/ {AB}c2 (cf) | \
+c/f3/ A/f3/ c/f3/ a3/g/ | f/d3/ c3/A/ AGG3/f/ |
+c/f3/ A/f3/ c/f3/ A/f3/ | c/f3/ A/B3/ {AB}c2 (ce) | \
+f/a3/ d3/f/ c/f3/ A/f3/ | GG B3/c/ {Bc}d2 d & E2 F2 F2 F|]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Ff] [Bb] | \
+[Aa] [Bb] [Aa] [Ff] | c' d'/c'/ b b  & C, F, F,B,, | \
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Ff] [Bb] | \
+[Aa] [Bb] [Aa] [Ff] | c' d'/c'/ b b/  & C, F, F,B,,/ |] \
+z/ | \
+[fac'] [fac'] [fac'] [fac'] | [fac'] [fac'] [fac'] [fac'] | \
+[fac'] [fac'] [fa]  [fc']  | d'/b/a c'c'/z/ & F, F, C, C,/z/ | \
+[fac'] [fac'] [fac'] [fac'] | [fac'] [fac'] [fac'] [Bb] | \
+[Aa] [Bb] [Aa] [Ff] | c' d'3//c'// b b/  & C, F, F,B,,/|]
+
+X: 82
+T:Miss Grant of Elchies
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:21 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3925
+%%TBL:{"version":1,"type":"tune","id":"3925"}
+K:Bb
+%%staves {1 2}
+V:1
+B,<BB>c {Bc}d<B !trill!B2 | C<cc>d {cd}e<c !trill!c2 &x2G2x4 | \
+d<f-f>!wedge!g fbdB | [DF]>B [EA]/B/c/A/ {D}d<B B :|
+B/c/ | \
+dBec dB !trill!G2 &F2F2x4 | FBGB [EA]c- cB/c/ | \
+dBec dB !trill!G2 | ([DF]>B) [EA]/B/c/A/ {D}d<B- BB/c/ |
+dBec dB !trill!G2 | FBGB [EA]c- cB/c/ | \
+d<ff>g f<b B2 | ([DF]>B) [EA]/B/c/A/ {D}[Dd]<[DB] !trill![DB] |]
+V:2 middle=d clef=bass
+L:1/4
+[B,B][B,B][B,B][Dd] | [Ee][Ee]/[Dd]/[Cc][Aa] | [B,B][Dd]/[Ee]/[Dd][B,B] |[Ff][Ff][B,B][B,B]/ :| \
+z/ | \
+[Bb][Gg][Bb][eb] | [db][eb][Ff][Ff] | [Bb][Gg][Bb][eb] | [Ff][Ff][B,B][B,B]/z/ | \
+[Bb][Aa][Bb][eb] | [db][eb][Ff][Ff] | [Bb]b[db][Bb] & xD,/E,/x4 | [Ff][Ff][B,B][B,B]/ |]
+
+X:10
+T:Miss Isaac Forsyth, Elgin
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:6/8
+O:Scotland
+R:Jig
+Z:Clark Bernst + Richard Robinson
+%%Page:3 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4092
+%%TBL:{"version":1,"type":"tune","id":"4092"}
+K:F
+%%staves {1 2}
+V:1
+C | \
+F2B (A/B/c)!wedge!A | F2f fed | c2d cAF | EG[DG] [CEG]2 A | \
+F2B (A/B/c)!wedge!A | F2f fed | c2d cAF | CFF F2 & A,2[B,D] [A,C]2 :|
+~f/g/ | \
+agf bag | agf gfe | fed cBA | BGG G2 f/g/ | \
+agf bag | agf gfe | def cdB | AFF F2 f/g/ |
+agf bag | agf gfe | def cBA | BGG G2 f/g/ | \
+F2B (A/B/c)!wedge!A | F2f fed | c2f efg | aff f2 |]
+V:2 middle=d clef=bass
+z | \
+a2d' c'2c' & F,3 F,3 | a2d' d'c'b', & F,3 F,3 | \
+a2b', a2a & F,3 F,3 | c'2=b _b3 & C,6 | \
+[ac']2d' c'2c' & F,3 F,2F, | a2d' d'c'b & F,3 F,3 | \
+a2b a2a & F,3 F,2F, | [Ff]2 [Ff] [Ff]2 :| \
+z | \
+fac' egc' | fac' fac' | fbd' fac' | cgc' cgc' | \
+fac' egc' | fac' fbd' | fbd' egc' | z2[bd'] [ac']2z & F,3 F,3 | \
+fac' egc' | fac' fac' | fbd' fac' | cgc' ebc' | \
+a2d' c'2c' & F,3 F,2F, | a2d' d'c'b & F,3 F,2F, | \
+a2a fab & F,2F, C,3 | a2[bd'] [ac']2 & F,3 - F,2 |]
+
+X:11
+T:Miss Louisa Duff
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:2 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3928
+%%TBL:{"version":1,"type":"tune","id":"3928"}
+K:G minor
+%%staves {1 2}
+V:1
+!trill!B2 (GB) DGBG | !trill!A2 Fc AFcA | \
+!trill!B2 (GB) DGBG | A3/G/^FA G/G/G G2 :: \
+dg-ga bgaf | 
+            cffa bgaf |1 \
+dgga bgaf | ag^fg g/g/g g2 & c4 B2B2 :|2 \
+defg fdcB | A3/2G/^FA G/G/G G2 & D8 |]
+V:2 middle=d clef=bass
+L:1/4
+[Gg] [Gg] [Gg] [Gg] | [Ff] [Ff] [Ff] [Ff] | \
+[Gg] [Gg] [Gg] [Gg] |dD[Gg] [Gg] :: \
+[gbd'] [gbd'] [gbd'] [ac'] | [ac'] [fc'] [=ec'] [fc'] |1 \
+[bd'] [gd'] [gd'] [ac'] | d'd [Gg] [Gg] :|2 \
+[Bb] [Bb] [Aa]/[Bb]/ [cc'] | [dac'] [dac'] [Gg] [Gg] |]
+
+X: 124
+T:Miss Mary L. Robertson
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:14 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3967
+%%TBL:{"version":1,"type":"tune","id":"3967"}
+K:C
+%%staves {1 2}
+V:1
+F | \
+EG-G!wedge!A c2 (ce) | defe dDDF & A2A2x4 | \
+EG-GA [Ec]2 (ca) & x6A2 | gefd c/c/c c :: \
+f | \
+(ef/g/) (cg) egcg | 
+                    (fg) (a/g/f/e/) fddf |1 \
+(ef/g/) (cg) egcg | fdge cc/c/ c :|2 \
+ecdB (dc)(BA) | [EG]c[B,G]E C/C/C C |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[cc'] [cc'] [cc'] [cc'] | [Ff] [Ff] [Gg] [Gg] | [cc'] [cc'] [cc'] [Ff] | ggcc/ :: \
+z/ | \
+[cc'] [cc'] [cc'] [cc'] | [fc'] [fc'] [fd'] [gd'] | \
+[c'e'] [ec'] [ec'] [ec'] | [Ff] [Gg] [Cc] [Cc]/ :| \
+[c'e'] [gd'] [Aa] [Ff] | [Gg] [Gg] [Cc] [Cc]/ |]
+
+X: 19
+T:Miss McInnes Fancy
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:26 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3862
+%%TBL:{"version":1,"type":"tune","id":"3862"}
+K:A
+%%staves {1 2}
+V:1
+c | \
+A,AA>c  A,<AA>c          | A,<A AB/c/    ~d2 d>e | \
+f<dd>B  e<cc>A  & G2E2x4 | B>c  (d/c/)B/A/ {G}F2 F>c |
+A,<AA>c A,<AA>c          | A,<A AB/c/    d2 d>e | \
+f<dd>B  e<cB>A  & G2E2x4 | B>c  d/c/B/A/ {G}F2 F |]
+f | \
+e>fe>c   a<e ec/d/ | e>f e<c  a2   ef/g/ | \
+ag{g}f>e d>c{c}BA  | G<BB>c  [dA]2 [dB]>e |
+e>f e<c  {c}ae ec/d/  | e>f e<c {c}a2 ef/g/ | \
+a/g/f/e/ f/e/d/c/ d/c/B/A/ G/F/E/D/ | E<BG>E [CA]2 [CA] & D2D2x4 |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[A,A][A,A][A,A][A,A] | [A,A][A,A][Dd][Dd] | \
+[Ee][Gg][Aa][ca]/c'/ | [dd'][Bb]/[ca]/[da][da] | \
+[A,A][A,A][A,A][A,A] | [A,A][A,A][Dd][Dd] | \
+[Ee][Gg][Aa][Cc] | [dd'][Bb]/[ca]/[da][da]/ |] \
+z/ | \
+[ac'e'][ac'e'][ac'e'][ac'e'] | [ac'e'][ac'e'][ac'e'][ac'e'] | \
+c'/e'/d'/c'/ e'e' & A,A,G,/A,/B,/C/ | [ee'][ee'][fd'][ge'] | \
+[ac'e'][ac'e'][ac'e'][ac'e'] | [ac'e'][ac'e'][ac'e'][ac'e'] | \
+[ac'e'][ac'e'] [ge']/[ae']/[be']/[eg]/ | [Ee][Ee][Aa][Aa]/ |]
+
+X: 125
+T:Miss Syme Wilson
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:14 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3968
+%%TBL:{"version":1,"type":"tune","id":"3968"}
+K:C
+%%staves {1 2}
+V:1
+f | \
+(ed!trill!cB) c2 [DG]F | EGce fddf | (ed!trill!cB) c2 GF & x6D2 | EcDF ECC :: \
+f | \
+efge c'ege | 
+              [ca]f[cg]e [cf]d[Bd]f |1 efge c'ege | fagf ecc :|2 ecfd gegf | egdf ecc |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Cc] [Cc] [Cc] [Bb] | [Cc] [Cc] [Ff] [Gg] | \
+[Cc] [Cc] [Cc] [Bb] | [Cc] [Gg] [Cc] [Cc]/ :: \
+z/ | \
+[cc'] [cc'] [cc'] [cc'] | [Ff] [Ee] [Ff] [Gg] | [cc'] [cc'] [cc'] [cc'] | [Ff] [Gg] [Cc] [Cc]/ :| \
+[cc'] [=B=b] [_B_b] [Aa] | [Gg] [Gg] [Cc] [Cc]/ |]
+
+X: 90
+T:Mr Charles Stewart, Pettyvaich
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:16 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3933
+%%TBL:{"version":1,"type":"tune","id":"3933"}
+K:Bb
+%%staves {1 2}
+V:1
+F | \
+B2 (dB) fBdB | Gced cBAF | B2 (dB) fBdB | GcAF B2 B :| \
+b | \
+fddb fddb | fddB (A/B/c) cb | 
+                              fddb fdcB | AFGA B2 Bb | \
+fddb fddb | fddB (A/B/c) ce | dfga bfdB | GcAF B2 B |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Bb] [Bb] [Bb] [Bb] | [Ee] [Ee] [Ff] [Ff] | [Bb] [Bb] [Bb] [Bb] | [Ee] [Ff] [Bb] [Bb]/ :| \
+z/ | \
+[bd'f'] [bd'f'] [bd'f'] [bd'f'] | [bd'f'] [bd'f'] [c'e'f'] ['c'e'f'] | \
+[bd'f'] [bd'f'] [bd'f'] [bd'f'] | [fc'e'] [fc'e'] [bd'] [bd'] | \
+[bd'f'] [bd'f'] [bd'f'] [bd'f'] |[bd'f'] [bd'f'] [c'e'f'] [ac'f'] | \
+[bf'] [ee'] [dd'] [Bb] | [Ee] [Ff] [Bb] [Bb]/ |]
+
+X: 161
+T:Mr Marshall's Reel
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:George Robertson
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Caption:By Mr George Robertson, Albany St. Edinburg. This is the only Melody in the work not Mr. Marshall's
+%%Page:25 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4004
+%%TBL:{"version":1,"type":"tune","id":"4004"}
+K:D
+D2 FA dAFD | E<EGE BEGE & B,2x6 | D2 (F>A) dAFA | (f>g)fe d2 D2 :|
+d<daf a>baf | A<AeA c>eAe | d<daf a>baf | (g/a/b) (e/f/g) f<dd>f |
+d<daf a>ba>f | g<e g/f/e/d/ c<ee>g | (fd).A.F (BG).E.g | A>g f/e/d/c/ d<D D2 |]
+D<DFD d>DF>D | E<EGE B>EG>E | D<DFD d>DF>D | E>gf>e d<D D2 |
+D<DFD d>DF>D | E<EGE B>EG>E | D<DFD d>DF>D | E>gf>e d<D D2 |]
+dafa dafa | Aece Aece | dafa dafa | (g/a/b) a>g f<dd>f & d2c2x4 |
+dafa dafa | Aece Aece | [Aa]fdA ([Af]d).A.F | (G/A/B) A>c [Fd]D D2 & x2G2x4|]
+
+X: 91
+T:Mr Masson, Manse of Botriphnie
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:22 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3934
+%%TBL:{"version":1,"type":"tune","id":"3934"}
+K:Bb
+%%staves {1 2}
+V:1
+B | \
+B,<B-B>!wedge!c {Bc}d>cB<F | G<BF<B !trill!D>CB,D | \
+C<c-c>d {cd}[eG]>dcB &x2G2-x4 | GBcd ecdf |
+d<B(B>c) {Bc}d>cB<F | G<BF<B !trill!D>C B,<D | \
+EGEC DFDB, | C>D~E>F {EF}G2 G |]
+g | \
+fBdf Bfdf | bBdf B>c{Bc}dB | gceg cgeg | (c>d)ef !trill!g2 ga/b/ |
+fBdf Bfdf | bBdf ~B>c{Bc}dB | GBFB EBDB | C>D~E>F {EF}G2 G |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Bdb][Bdb][Bdb][Bdb] | [Beb][Bdb]f/e/d & x2B,,B,, | [Ee][Ee]/[Dd]/[Cc][Dd] | [Ee][Ee][Cc] [B,B] | \
+[Bdb][Bdb][Bdb][Bdb] | [Beb][Bdb][Bf][_A_a] | [Gg][Aa][Bb][Bf] | [Ff][Ff][Ee][Ee]/ |] \
+z/ | \
+[db][db][db][db] | [db][db][db]3//[fc']//[bd'] | \
+[ee'][ee'][ee'][ee'] | [Ee]/[Dd]/[Cc]/[Dd]/[Ee][Ee] | \
+[B,B][B,B][B,B][B,B] | [B,B][B,B][Dd]/[Cc]/[B,B] | \
+[Ee][Dd][Cc][B,B] | [Ff][Ff][Ee][Ee]/ |]
+
+X: 26
+T:Mr Morison of Bognie
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:6/8
+O:Scotland
+R:Jig
+Z:Clark Bernst + Richard Robinson
+%%Page:26 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3869
+%%TBL:{"version":1,"type":"tune","id":"3869"}
+K:A
+%%staves {1 2}
+V:1
+E  | \
+A2G {B}A2G | ABc {e}d2B | c2A       {BAGA}ecA     | {G}F3    F2E | \
+A2G A2G    | ABc {e}d2B | [Ac]2[ce] ef^d   & x3B3 | [Ge]3    [Ge]2c |
+dfd B2d    | cec A2c    | d2c       BcA    &x3F2E | {G}[DF]3 F2E | \
+[EA]2[EG] [EA]2[EG] | ABc {e}d2B & E3 E2E | c2A EFG & E2ED2D | [CA]3 [CA]2 |]
+f/g/ | \
+agf e>fg      | agb a2e          | {g}a2e  e>dc         | [Ac]3 [GB]2g | \
+agf efg       | agb agf          | ecA     EFG  &x3D3   | [CA]3 [CA]2g |
+a2e cde &A3A3 | f2d Bcd & A3G3   | [Ae]2c  A>Bc &x3E3   | [DF]3 F2E | \
+A2G A2[EG]    | ABc d2B & E2ED2E | {d}c>BA E>FG & E3D2D | [CA]3 [CA]2 |]
+V:2 middle=d clef=bass
+z | \
+[ac'e']2[bd'e'] [ac'e']2[bd'e'] | e'3 [ge']2[ge'] & CB,A, x3 | \
+[ac'e']2[ac'e'] [ac'e']2[ac'e'] | dfb d'2[bd'] | \
+[ac'e']2[bd'e'] [ac'e']2[bd'e'] | [c'e'][be'][be'] [ge']2[ge'] | \
+[ae']2[ge'] [f^d]2[fab] | egb e'2[=gbe'] | \
+[fd']2[fd'] [ge']2[ge'] | [ae']2[ae'] [g=bc']2 [gae'] | \
+[fd']2e [dd']2[ca] | dfb d'2[bd'] | \
+[eac']2[ebd'] [eac']2[ebd'] | cba [eg]2[eg] & E,2E,x3 | \
+[Aa]2[Aa] [Ee]2[Ee] | Ace a2 |]
+z | \
+[ae']2[ad'] [ac']2[ad'] | [ac'e']2[ad'e'] [ac'e']2[ac'e'] | \
+[ac'e']2[ac'e'] [gbe']2[ac'e'] | eac' e'2[bd'e'] | \
+[ac'e']2[ad'e'] [ac'e']2[abe'] | [be']3 [dd']2[dd'] | \
+[eac']2[eac'] [Ee]2[Ee] | Ace a2z & A,,3x3 | \
+[ac'e']2[ac'e'] [ac'e']2[ac'e'] | [Dd]2[Dd] [Ee]2[Ee] | \
+[Aa]2[Aa] [Aa]2[Aa] | dfa d'2[bd'] | \
+[ac'e']2[ebd'] [ac'e']2[Ee] | [Aa]2[=G=g] [Ff]2[^G^g] | \
+[Aa]2[Aa] [Ee]2[Ee] | Ace [Aa]2 |]
+
+X: 92
+T:Mrs Buchan of Auchmacoy
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:22 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3935
+%%TBL:{"version":1,"type":"tune","id":"3935"}
+K:Bb
+%%staves {1 2}
+V:1
+F | \
+(Bc/d/) BF ([FB]c/d/) BF & F2x6 | {e}d>cBd cCCc | \
+(Bc/d/) BF ([FB]c/d/) [FB]F & F2x6 | {e}[Fd]>[Ec][DB][CA] [DB]B, B, :|
+d/e/ | \
+fd b2 fd b2 | fdbd gc cd/e/ | \
+fd b2 (a/g/)(f/e/) (d/c/)(B/A/) | BG F/G/F/E/ DB, B, 
+d/e/ | \
+fd b2 fd b2 | fdbd gc cd/e/ | \
+fdec {e}dBcA | B<GF>E DB,B, |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Bb][Bb][Bb][Bb] | [Bb]d/B/fF | [Bb][Bb][Bb][Bb] | fF[B,B][B,B]/ :| \
+L:1/8
+z | \
+[bd']f'[bd']f' [bd']f'[bd']f' | [bd']f'[bd']f' [c'e']f'[ae']f' | \
+[bd']f' [df]b [eg]c' [efa]c' | [db][eb] fF B2B,z | \
+[bd']f'[bd']f' [bd']f'[bd']f' | [bd']f'[bd']f' [c'e']f'[ae']f' | \
+[bd'f']2 [ac'f']2 [bd'f']2 [efc']2 | b2fF B2B, & D,E, x5 |]
+
+X:12
+T:Mrs Charles Stewart, Pettyvaich
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:5 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4104
+%%TBL:{"version":1,"type":"tune","id":"4104"}
+K:F
+%%staves {1 2}
+V:1
+A/B/ | \
+cFdF cFAF | EG-G.A B2 (Bd) | cFdF cFAF | ECDE F2 F :|
+e | \
+fcAf cfAf | cfAf g2 (~!=!ga) | fcAf cfcA | BG EG F2 (Fe) |
+fcAf cfAf | defa g2 gf | (a/g/f) (g/f/e) fc[Ba]3/g/ | fdcA F2 F |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[fac'] [fbd'] [fac'] [fac'] | [cgc'] ['cgc'] [cgc'] [cgc'] | \
+[fac'] [fbd'] [fac'] [fac'] | [cgb] [cgb] [fac'] [fac']/ :| \
+z/ | \
+[Ff] [Ff] [Fcf] [Fcf] | [Fcf] [Fcf] [cgc'] [cgc'] | \
+[Fcf] [Fcf] [Fcf] [Fcf] | [cgc'] [cgc'] [Fcf] [Fcf]  | \
+[Fcf] [Fcf] [Fcf] [Fcf]  | [Bb] [Aa] [cc'] [cc'] | \
+[fac'] [gbc'] [fac'] [cc'] | [Ff] [Ff] [Ff] [Ff]/ |]
+
+X: 284
+T:Mrs Falconer's Reel, Craigellachie
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:23 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4127
+%%TBL:{"version":1,"type":"tune","id":"4127"}
+K:G
+%%staves {1 2}
+V:1
+~g2 dB ~g2 dB | AGAB A/A/A A2 | ~g2 dB ~g2 dB | AGAB G/G/G G2 ::
+(~g2 b)!wedge!g afge | dBgB A/A/A A2 |  (~g2 b)!wedge!g afge | dBcA G/G/G G2 ::
+GBdB gBdB | GBdB A/A/A A2 | GBdB gBdB | AGAB G/G/G G2 ::
+bgaf g2 eg | dBgB A/A/A A2 |1 bgaf g2 ~eg | dBgB G/G/G G2 :|2 gbab gaeg | dBgB G/G/G G2 |]
+V:2 middle=d clef=bass
+L:1/4
+[Gg][Gg][Gg][Gg] | [Dd][Dd][Dd][Dd] | [Gg][Gg][Gg][Gg] | [Dd][Dd][Gg][Gg] :: \
+[gbd'][gbd'][gc'e'][gc'e'] | [gbd'][gbd'][dad'][dad'] | \
+[gbd'][gbd'][gc'e'][gc'e'] | [gbd'][Dad'][gbd'][gbd'] :: \
+[Gg][Gg][Gg][Gg] | [Gg][Gg][Dd][Dd] | [Gg][Gg][Gg][Gg] | [Dd][Dd][Gg][Gg] :: \
+[Gg][Gg][Gg][Gg] | [Gg][Gg][Dd][Dd] | [Gg][Gg][Gg][Gg] | [Gg][Gg][Gg][Gg] :| \
+[Gg][Gg][Gg][Gg] | [Gg][Gg][Gg][Gg] |]
+
+X: 263
+T:Mrs Gordon of Knockespoch
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:10 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4106
+%%TBL:{"version":1,"type":"tune","id":"4106"}
+K:F
+%%staves {1 2}
+V:1
+A | \
+F<F ~F2 (Ac)cd | _efgE GBBd | cF ~F2 (FA)Ab | afge fdcA |
+F<F ~F2 (Ac)cd | _efgE GBBd | cF ~F2 (FA)Ab | afge f2 f |]
+g | \
+afcf cfaf | bgaf eg-g!wedge!b | afcf cfaf | ecde f2 fg |
+afcf cfaf | bgaf eg-g!wedge!b | afge fdcA | cfge ~f2 f |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ff] [Ff] [Ff] [_A_a] | [Gg] [_E_e] [Ee] [Ee] | \
+[Ff] [Ff] [Ff] [_E_e] | [Ff] [Cc]   [Ff] [Ff] |  \
+[Ff] [Ff] [Ff] [_A_a] | [Gg] [_E_e] [Ee] [Ee] | \
+[Ff] [Ff] [Ff] [_E_e] | [Ff] [Cc]   [Ff] [Ff]/ |]  \
+z/ | \
+[fac'] [fac'] [fac'] [fac'] | [ec'] [fc'] [cgc'] [cgc'] | \
+[fac'] [fac'] [fac'] [fac'] | [gbc'] [gbc'] [fac'] [fac'] | \
+[fac'] [fac'] [fac'] [fac'] | [ec']  [fc']  [cgc'] [cgc'] | \
+[fc'] [fb] [fb] [fac'] | [fac'] [cc'] [fac'] [fac']/ |]
+
+X: 30
+T:Mrs Gordon of Park
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:27 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3873
+%%TBL:{"version":1,"type":"tune","id":"3873"}
+K:A
+%%staves {1 2}
+V:1
+C<EE>F    E>C      E<A | C<E EE/G/    A<CB,>D | \
+C<E EE/G/ A>B      c<A | d>e f/e/d/c/ d/c/B/A/ {G}F2 & A2A2x4 :|
+e<c{c}a>g (a/g/)f/e/ a2  | e<c{g}a>g    (f/e/)d/c/ Bc/d/ | \
+e>cd>B    c>AB>G         | A<cF<A       E<C B,2 |
+e<c{c}a>g (a/g/)f/e/ a2  | e<c{g}a>g    (f/e/)d/c/ Bc/d/ | \
+(f/e/)d/c/ (e/d/)c/B/ d/c/B/A/ c/B/A/G/ & x4A2x2 | A<cF<A E<C B,2 |]
+V:2 middle=d clef=bass
+L:1/4
+[Aa][Aa][Aa][Aa] | [Aa][Aa][Aa][Ee] | [Aa][Aa][Aa][Aa] | [Ff][Dd][B,B]/[Cc]/[Dd] :| \
+[ac'e][ac'e'][ac'e'][ac'e'] | [ac'e'][ac'e'][ac'e'][ebe'] | \
+[ae'][ge'][ae'][bd'e'] | [ac'e'][Dd][Aa][Eeg] | \
+[ac'e][ac'e'][ac'e'][ac'e'] | [ac'e'][ac'e'][ac'e'][Ee] | \
+[ac'e'][bd'e'][ae']/[c'e']/ [ed']/[fc']/ | [cc'][dd'][Aa][Ee] |]
+
+X: 132
+T:Mrs H Inglis
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:15 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3975
+%%TBL:{"version":1,"type":"tune","id":"3975"}
+K:C
+%%staves {1 2}
+V:1
+c | \
+G<CG>E G<CC>c | A<D[^CA]>G A<DD>c | G<CG>E c>d e<d | c>AG>E C/C/C C 
+c | \
+G<CG>E G<CC>c | A<D[^CA]>G A<DD>c | G<CG>E c>d e<d | c>AG>E C/C/C C ||
+e | \
+(g>a)(g>f) (!trill!c>d)(e>c) | (!trill!a>b)(a>f) (!trill!d>e)(f>d) | \
+(!trill!g>a)(g>f) (c>d)(e>d) | c>A!trill!G>E C/C/C C
+e | \
+(g>a)(g>f) (!trill!c>d)(e>c) | (!trill!a>b)(a>f) (!trill!d>e)(f>d) | \
+g>ag>f c<f!trill!e>d | c>A!trill!G>E C/C/C C |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Cc] [Cc] [Cc] [Cc] | [Ff] [Ee] [Dd] [Dd] | [Cc] [Cc] [Ee]/[Dd]/ [Cc] | [Ff] [Gg] [Cc] [Cc]/ z/| \
+[Cc] [Cc] [Cc] [Cc] | [Ff] [Ee] [Dd] [Dd] | [Cc] [Cc] [Ee]/[Dd]/ [Cc] | [Ff] [Gg] [Cc] [Cc]/ || \
+z/ | \
+[cec'] [cec'] [ec'] [ec'] | [fc'] [fac'] [fgbd'] [fgbd'] | \
+[egc'] [egc'] [ec'] [ec'] | [fc'] [Gg] [Cc] [Cc]/ z/ | \
+[cec'] [cec'] [ec'] [ec'] | [fc'] [fac'] [fgbd'] [fgbd'] | \
+[egc'] [egc'] [fac'] g/^g/ | a/f/ g [Cc] [Cc]/ |]
+
+X:13
+T:Mrs Mary Grant McInnes, Dandaleith
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:1 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4110
+%%TBL:{"version":1,"type":"tune","id":"4110"}
+K:F
+%%staves {1 2}
+V:1
+|: f | \
+c/F3/!trill!c3/A/ c/F3/f3/d/ | c/F3/c3/A/ G2 (GA) | \
+c/F3/c3/A/        c/F3/a3/g/ | f/d3/c3/A/ F2 F :|
+f | \
+cfAf cfaf     | d/f3/!trill!c3/A/ {G}G2 Gf | \
+dfcf Af{fg}ag | f/d3/!trill!c3/A/ F2 Ff |
+cfAf cfaf     | d/f3/!trill!c3/A/ {G}G2 Gf | \
+FAGB Aca3/g/  | f/d3/!trill!c3/A/ F2 F |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | [Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Cc] [Cc] | \
+[Ff] [Ff]  [Aa] [Aa] | [Bb] [cc'] [Ff] [Ff]/ :| \
+z/ | \
+[fac'] [fac'] [fac'] [fac'] | [fbd'] [fac'] [cc'] [cc'] | \
+[fb]   [fa]   [fac'] [fac'] | [Bb]   [cc']  [Ff]  [Ff] | \
+[fac']  [fac'] [fac'] [fac'] | [fbd'] [fac'] [cc'][ [cc'] | \
+[fc'] [ec'] [fac'] [Aa] | [Bb] [cc'] [Ff] [Ff]/ |]
+
+X: 134
+T:Mrs McPherson, Gileston
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:12 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3977
+%%TBL:{"version":1,"type":"tune","id":"3977"}
+K:C
+%%staves {1 2}
+V:1
+[Ec]2 cG [Ec]2 cG | c2 cG {^c}d2 de | c2 cG EcGE | FDB,G, [G,C]2 [G,C]2 :| \
+gege afaf | gece d2 (de) | gege afaf | ecGB c2 (ce) | \
+gege afaf | edge d2 (df) | egfa dfeg | BGdB [Ec]2 [Ec]2 & F2G2x4  |]
+V:2 middle=d clef=bass
+L:1/4
+[cgc'] [cgc'] [cgc'] [cgc'] | [cgc'] [cgc'] [Gg] [Gg] | \
+[cgc'] [cgc'] [cgc'] [cgc'] | [Gdf] [Gdf] [Cc] [Cc] :| \
+[cec'] [cec'] [cec'] [cec'] | [cec'] [cgc'] [Gg] [Gg] | \
+[cec'] [cec'] [cfc'] [cfc'] | [Gg] [Gg] [cc'] [cc'] | \
+[cec'] [cec'] [cfc'] [cfc'] | [Gg] [Gg] [Gg] [Bb] | \
+[_B_b] [Aa] [=Bg] [cg] | [Gg] [Gg] [Cc] [Cc] |]
+
+X: 135
+T:Mrs Mitchell of Stow
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:27 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3978
+%%TBL:{"version":1,"type":"tune","id":"3978"}
+K:C
+%%staves {1 2}
+V:1
+e | \
+cGAB c2ce & E4E4 | cGce fdBG & E4E4 | cGAB cagf | ecdB [Ec]2ce & G2F2x4 | \
+cGAB c2ce & E4E4 | cGce fdBG & E4E4 | cGAB cagf | ecdB c2c & G2F2x4 |] 
+e | \
+geag fedc | Bdde f2fa | geag fedc | BGAB c2ce | \
+geag fedc | Bdde fagf | ecag fedc | BagB c2c |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[cc'][cc'][cc'][cc'] | [cc'][cc'][Gg][Gg] | \
+[cc'][cc'][Ff][Ee]/[Ff]/ | [Gg][Gg][Cc][Cc] | \
+[cc'][cc'][cc'][cc'] | [cc'][cc'][Gg][Gg] | \
+[cc'][cc'][Ff][Ee]/[Ff]/ | [Gg][Gg][Cc][Cc]/ |] \
+z/ | \
+[c'e'g'][c'e'g'][c'e'g'][c'e'g'] | [d'f'g][d'f'g'][bd'g'][bd'g'] | \
+[c'e'g'][c'e'g'][c'e'g'][c'e'g'] | [gd'f'][gd'f'][c'e'g'][c'e'g'] | \
+[c'e'g'][c'e'g'][c'e'g'][c'e'g'] | [gd'f'][gd'f'][ac'f'][bd'g'] | \
+[c'e'g'][ac'f'][ac'f'][fc'f'] | [gd'f'][gd'f'][c'e'a'][c'e'a']/ |]
+
+X: 286
+T:Mrs Robert Chamber
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:23 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4129
+%%TBL:{"version":1,"type":"tune","id":"4129"}
+K:G
+%%staves {1 2}
+V:1
+b | \
+dBGc (Bc/d/) BG | Ggfg aAAg | dBGc (Bc/d/) BG | Ag[cf]a !trill![Bg]2 [Bg] ::
+a | \
+bggb affa | gedB [Ge]A[FA]g |1 bggb affd | egfa !trill!g2 g :|2 \
+GBAc Bdce | [Bd]g[cf]a g2 g |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Gg][Gg][Gg][Gg] | [Bb][Gg][Ff][Dd] | [Gg][Gg][Gg][Gg] | [Cc][Dd][Gg][Gg]/ :: \
+z/ | \
+[gbd'][gbd'][dfd'][dfd'] | [gc'][gb][Cc][Dd] | \
+[gbd'][gbd'][Dd][Dd] | [gc'][gc'd'][gbd'][gbd']/ :| \
+[Gg][Ff][=F=f][Ee]/[Cc]/ | [Dd][Dd][Gg][Gg]/ |]
+
+X: 150
+T:Linlithgow Loch
+T:Provost Dawson's Favorite
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:25 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3993
+%%TBL:{"version":1,"type":"tune","id":"3993"}
+K:D
+%%staves {1 2}
+V:1
+F | \
+D>E D<A F<DA<F | D>E      D<F [A,E]2 [A,E]<F | \
+D>E D<A F<DA<F | d/c/d/e/ f<d F2 F :|
+G |\
+d>e f<d e>BdA  | Bcd<f        e2 e>f | \
+d>e f<d e>Bd>A | G<BF<A       E2 E>A |
+d>efd e>B d<A  | B>c d<f      e2 e>f | \
+g>e (g/f/e/)d/ (f/e/d/)c/ d>A & A2A2G2F2 | G<BF<A [CE]2 [CE] |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Dd][Dd][Dd][Dd] | [Dd][Dd][A,A][A,A] | [Dd][Dd][Dd][Dd] | [Dd][Dd][Dd][Dd]/ :| \
+z/ | \
+[dfd'][dfd'][dgd'][dfd'] | [dgd'][dfd'][Aa][Aa] | \
+[dfd'][dfd'][dgd'][dfd'] | [Gg][Dd][Aa][Aa] | \
+[dfd'][dfd'][dgd'][dfd'] | [dgd'][dfd'][Aa][Aa]/ z/ | \
+[Cc][Dd]/[Ff]/[Aa][dd'] | [Gg][Dd][Aa][Aa]/ |]
+
+X: 99
+T:Sir Robert Peel
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:21 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3942
+%%TBL:{"version":1,"type":"tune","id":"3942"}
+K:Bb
+%%staves {1 2}
+V:1
+F | \
+!trill!B2 (FE) DB,FD | CccB AFcA | B2 FE DB,FD | CcAF B2 B & x2E2D2D ::
+e | \
+dBfB dBfB | Gc-cB AFFe | dBfB dBfB | GcAF B2 B & x2 E2D2D |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[B,B][B,B][B,B][Dd]  | [Ee][=E=e][Ff][Ff] | [B,B][B,B][B,B][B,B] | [Ee][Ff][B,B][B,B]/ ::\
+z/ | \
+[bd'f'][bd'f'][bd'f'][bd'f'] | [egc'][=egc'][fac'][fac'] | \
+[bd'][bd'][bd'][bd'] | [egc'][fac'][Bb][Bb]/ :|
+
+X: 289
+T:the Top of Balvenie
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:23 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4132
+%%TBL:{"version":1,"type":"tune","id":"4132"}
+K:G
+%%staves {1 2}
+V:1
+g | \
+G<G (Bc/d/) Gc Bc/d/   | DAFA cedB | \
+G<G (Bc/d/) Gc (Bc/d/) | eg (f/g/a/f/) gGB & c2c2x3::
+g | \
+dgBg dgbg | dgBg aAce |1 \
+dgBg dgbg | (3efg (3fga gGBg :|2 \
+G<G (Bc/d/) Gc (Bc/d/) | eg f/g/a/f/ gGB |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Gg][Gg][Gg][Gg] | [Ff][Dd][Ff][Gg] | [Gg][Gg][Gg][Gg] | [Cc][Dd]gg/ :| \
+z/ | \
+[gbd'][gbd'][gbd'][gbd'] | [gbd'][gbd'][fc'd'][fc'd'] | \
+[gbd'][gbd'][gbd'][gbd'] | [gc'e'][ac'd'][gbd'][gbd'] :| \
+[Gg][Gg][Gg][Gg] | [cg][dac'][gb][gbd']/ |]
+
+X:14
+T:Viscount Hamilton
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:3 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4111
+%%TBL:{"version":1,"type":"tune","id":"4111"}
+K:F
+%%staves {1 2}
+V:1
+FCFA FGAf | cA!trill!GF D/D/D D2 | FCFA FGAf | cAfA F/F/F F2 :: \
+fcfa fcfa | 
+             gdba g/g/g g2 |1 \
+fcfa fcdf | !trill!c3/B/A3/G/ F/F/F F2 :|2 \
+facf BgAf | !trill!c3/B/A3/G/ F/F/F F2 |]
+V:2 middle=d clef=bass
+L:1/4
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Aa] [Bb] [Bb] | \
+[Ff] [Ff] [Ff] [Ff] | [Ff] [Ff] [Ff] [Ff] :: \
+[Ff] [Ff] [Ff] [Ff] | [Bb] [Bb] [cc'] [cc'] |1 \
+[Ff] [Ff] [Aa] [Bb] | [cc'] [cc'] [Ff] [Ff] :|2 \
+[Aa] [Ff] [Ee] [Ff] | [cc'] [cc'] [Ff] [Ff] |]
+
+X: 269
+T:Viscount Reidhaven
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:6 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4112
+%%TBL:{"version":1,"type":"tune","id":"4112"}
+K:F
+%%staves{1 2}
+V:1
+~!=!c2 (AB) ~!=!c2 (AB) | cagf ec ~!=!c2 | d2 Bd c2 Ac | GdcB (AF) ~F2 :| \
+af ~f2 cfAf | defg af ~f2 | bg ~!=!g2 dg=Bg | efga bg ~!=!g2 | \
+af f2 cfAf | defg afcA | BdBd AcAc | GdcB AFF2 & F2 E2 C2 A,2 |]
+V:2 middle=d clef=bass
+L:1/4
+[fac'] [fac'] [fac'] [fac'] |[fac'] [fac'] [cc'] [cc'] | \
+[Bb] [Bb] [Aa] [Ff] | [Bb] [Cc] [Ff] [Ff] :| \
+[faf'] [faf'] [fbf'] [fc'f'] | [fbf'] [fbf'] [faf'] [faf'] | \
+[Gg] [Bb] [=B=b] [Gg] | [cc'] [cc'] [ee'] [cc'] | \
+[faf'] [faf'] [faf'] [fc'f'] | [fbf'] [fbf'] [ff'] [f=e'] | \
+[dd'] [Ee] [Ff] [Ff] | [Bb] [Cc] [Ff] [Ff] |]
+
+
+%%TunebookLive:end

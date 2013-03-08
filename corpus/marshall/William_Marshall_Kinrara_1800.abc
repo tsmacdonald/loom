@@ -1,0 +1,182 @@
+%%TunebookLive:start
+%%parent:37
+%%pdflink:http://richardrobinson.tunebook.org.uk/static/NoMarshall.pdf
+%%ishtml:1
+%%TBL:{"version":1,"type":"collection","id":"98"}
+%%alias:Marshall-1800
+%%Title:William Marshall, Kinrara (1800)
+
+X: 209
+T:Brodie House Reel
+B:William Marshall, Kinrara (1800)
+C:William Marshall
+L:1/8
+M:C|
+N:Duke of Gordon ??
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Caption:by the D. of G.
+%%Page:25 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4052
+%%TBL:{"version":1,"type":"tune","id":"4052"}
+K:F
+%%staves { 1 2 }
+V:1
+e | \
+f>a a/g/f/e/ f>c cA | Bd d/c/B/A/ BG Ge | \
+f>a a/g/f/e/ f>c cA | B>d {d}c>B AF F  ::
+A/B/ | \
+c>A d>B c>A FA/c/ | c>A d>B {g}(f/e/f/g/ a)A/B/ | \
+c>A d>B cAFA |B>d {d}c>B AFF |]
+V:2 clef=bass
+L:1/4
+z/ | fcff | ffgc | fcff | d/B/c f/F/F/ :: \
+z/ | [fa][fb][fa][fa] | [fa][fb][fa]z | [fa][fb][fa]f | d/B/c f/F/ F/ :|
+
+X:1
+T:Highland Time
+B:William Marshall, Kinrara (1800)
+C:William Marshall
+M:C|
+O:Scotland
+Z:Clark Bernst + Richard Robinson
+%%Page:25 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/6573
+%%TBL:{"version":1,"type":"tune","id":"6573"}
+K:Bb
+%%staves { 1 2 }
+V:1
+F | \
+B>cBd FB G/F/E/D/ | B<FBd cCCA | \
+!trill!B>cBd FB (G/F/E/D/) | E<g !trill!f>e dBB ::
+f |\
+df (e/d/c/B/) bBeg | !trill!f>g (e/d/c/B/) {Bc}d<c (cd/e/) | \
+fBdB gBeg | FB {d}(!trill!cB/c/) {Bc}dBBd |
+fg/a/bB gBfB | ec{e}d{c}B Ac{dcB}cd | \
+B<FG<B F<B (G/F/E/D/) | E<g {g}!trill!f>e dBB |]
+V:2 clef=bass
+L:1/4
+z/ | BBBB | Bd/B/fe | dBBB | ef B/B/ B/ :: \
+z/ | BBde | dBfe | dBee | fFBB | Bded | cBfe | dedB | ef B/B/ B/ |]
+
+X:1
+T:Kinrara
+B:William Marshall, Kinrara (1800)
+C:William Marshall
+L:1/8
+M:C|
+N:Almost identical to the version in vol 1, with very minor differences in phrasing.
+O:Scotland
+R:Slow Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:25 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/6572
+%%TBL:{"version":1,"type":"tune","id":"6572"}
+K:Bb
+%%staves { 1 2 }
+V: 1
+"^Slow" B | \
+(B,>B) B>c B>G F>D | (B,<B) {cBA}Bc/d/ c2 C{E}D/C/ | \
+B,<B f>d g>f !fermata! b>{abc'ba}g | (f>d) !trill! c>d B2- BB ::
+{edc}d/e/ | \
+[df]>[eg] [df]<d B>d F>B | {A}G>F !trill!E>D C2- Cd/e/ | \
+[df]>[eg] [df]>d (fg/a/) bB | edeg !trill!g2 f{edc}d/e/ |
+(f.d) .B.d (f>.d) .B.d | G<c c>B {Bc}d2 {ed}cD/C/ | \
+(B,<B) f>d g>f !fermata!b>{ababc'ba}g | f<d !trill!c>d B2 - B |]
+V:2 clef=bass
+z | \
+B2 B2 d>e dB | d2 B2 f2 e2 | d2 d2 e2 !fermata!d>e | f2 F2 BbBz ::
+z | \
+B2 B2 B2 d2 | e>dc>B f2 fz | B2 B2 Be dB | gfge b2Bz | \
+[Bdfb]4 [Bdfb]4 | e2 e2 f2 fz |d2 d2 e2 !fermata!d>e | f2F2 BbB |]
+
+X: 149
+T:Lick the Laddle Sandie
+B:William Marshall, Kinrara (1800)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel?
+Z:Clark Bernst + Richard Robinson
+%%Page:26 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3992
+%%TBL:{"version":1,"type":"tune","id":"3992"}
+K:D
+%%staves {1 2}
+V:1
+(e/f/^g) ae fdec | Bg-gB d2 f2 | (e/f/^g) ae fdec | eggB e2 !trill!f2 ::
+eA!trill!cA eA!trill!cA | BggB e2 !trill!f2 | \
+eA!trill!cA (a/^g/f/e/) !trill!cA | Aa-ac d2 !trill!f2 ::
+eaca Aaca | Bg-gB d2 !trill!f2 | eaca Aaca | Aa-ac e2 !trill!f2 ::
+eA (d/c/B/A/) eA (d/c/B/A/) | Bg-gB d2 !trill!f2 | \
+eA (d/c/B/A/) (a/^g/f/e/) !trill!cA | Aa-ac e2 !trill!f2 :|
+V:2 clef=bass
+L:1/4
+AAAA | =GGGz | AAAA | AAAA :: \
+AAcA | =GGGz | AAAA | AAAA :: \
+AAAA | =GGGz | AAAA | AAAA :: \
+AAAA | =GGGz | AAAA | AAAA ::
+
+X: 15
+T:Miss Gunnings Reel
+B:William Marshall, Kinrara (1800)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:26 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3858
+%%TBL:{"version":1,"type":"tune","id":"3858"}
+K:A
+%%staves { 1 2}
+V:1
+e | \
+{d}c2 BA (G/A/B) (ED) | CEAc BEEe | {d}c2 (BA) (G/A/B E)d | (c/d/e) Bd cAA ::
+g | \
+(aAa)A aA d/c/B/A/ | GB !trill!B2 GB !trill!B2 | (aAa)A aA d/c/B/A/ | (c/d/e) Bd cA A2 |
+(aAa)A aA (d/c/B/A/) | (GB B2) GB B2 | (ecB)A a(cBA) | (c/d/e) Bd cA A2 ::
+cefe cefe | fedc BE E2 | cefe cefe | fefg aA A2 |]
+V:2 clef=bass
+L:1/4
+z/ | AAeE | AceE | AAee | AeAA/ :: \
+z/ | AAcA | BBee | AAcB | eEAA/z/ | \
+AAcA | BBee | AAcc | eEAA :: \
+AAAA | AAeg | aaaa | d>eAA |]
+
+X: 137
+T:Whigs of Fife
+B:William Marshall, Kinrara (1800)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:26 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3980
+%%TBL:{"version":1,"type":"tune","id":"3980"}
+K:C
+%%staves {1 2}
+V:1
+f | \
+cF F/F/F (AGG>A) | cF F/F/F f>gag | fF F/F/F AG-GA | FDE^C D3 ::
+(e | \
+f)ccf gdde | (fcc)d (f/e/f/g/) ag | fccf gdde | f/g/a g3/2e/ d2- d::
+f | \
+cf a/a/a gc_bc | fcaf c/d/c/_B/ Af | cf a/a/a gcea | {g}f/e/d {f}e/d/^c d2 d ::
+e | \
+fcAf gd g/a/_b | af ca {g}f/e/f/g/ a/b/a/g/ | \
+fcAf {a}g/f/g/a/ g/a/_b | {b}a/g/f g/f/e d2- d |]
+V:2 clef=bass
+L:1/4
+z/ | fac'_b | afac' | fAc^c | dAd3/ :: \
+z/ | AABB | Afcc | AABB | AAd3/ :: \
+z/ | ffec | AFcc | ffc^c | dAdd/ :: \
+z/ | ffBc | ffff | ffe^c | dAdd/ :|
+
+
+%%TunebookLive:end

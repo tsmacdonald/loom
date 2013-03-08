@@ -1,0 +1,988 @@
+%%TunebookLive:start
+%%parent:37
+%%pdflink:http://richardrobinson.tunebook.org.uk/static/NoMarshall.pdf
+%%ishtml:1
+%%TBL:{"version":1,"type":"collection","id":"99"}
+%%alias:Marshall-1781
+%%Title:William Marshall, A Collection of Strathspey Reels  (1781)
+
+X: 42
+T:A Hornpipe
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Hornpipe
+Z:Clark Bernst + Richard Robinson
+%%Page:8 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3885
+%%TBL:{"version":1,"type":"tune","id":"3885"}
+K:Bb
+%%staves {1 2}
+V:1
+B2 (FD) GEBG | FDGE (ED)(CB,) | edef gfed | cBAG !trill!F4 | 
+B2 (FD) GEBG | FDGE (ED)(CB,) | d2 b2 agfe | dcBA B4 ::
+edef gfed | cBcd edcB | AFGA Bcde | gfed !trill!c4 | 
+B2 (FD) GEBG | FDGE (ED)(CB,) | d2 b2 agfe | dcBA B4 :|
+V:2 middle=d clef=bass
+L:1/4
+Bbee | BebB | eee3/=e/ | ff f/e/d/c/ | \
+BBee | BeBB | bg f/e/d/e/ | fFB2 :| \
+eeEE | ccCC | [Ff]2B2 | ee f/e/d/c/ | \
+BBee | BeBB | bb B/e/d/e/ | ffB2 |]
+
+X: 103
+T:Anderson's Rant
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel?
+Z:Clark Bernst + Richard Robinson
+%%Page:7 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3946
+%%TBL:{"version":1,"type":"tune","id":"3946"}
+K:C
+%%staves {1 2}
+V:1
+CEGE c2 (ce) | GECE !trill!D2 (DE) | CEGE cdfa | gede c/c/c c2 :| \
+!trill!gecg ecge | 
+!trill!gecg d2 d2 |1 \
+gecg ecge | fdge c/c/c c2 :|2 \
+GcFc Ecfa | !trill!gede c/c/c c2 |]
+V:2 middle=d clef=bass
+L:1/4
+cccc | ccgB | cccf | gGcc :| \
+ccc'c' | ccdd |1 cccc | fgcc :|2 cccf | ggcc |]
+
+X:1
+T:Arthur's Seat
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel?
+Z:Clark Bernst + Richard Robinson
+%%Page:1 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/6575
+%%TBL:{"version":1,"type":"tune","id":"6575"}
+K:E
+%%staves {1 2}
+V:1
+(EGB)(e !trill!gf)eg | fgag f/f/f f2 | (EGB)(e !trill!gf)ed | ecBG E/E/E !trill!E2 ::
+(!trill!cB)(eB) (!trill!cB)(AG) | AcBG F/F/F F2 | (!trill!cB)(eB) (!trill!cB)(AG) | AcBG E/E/E E2 ::
+egBg faBa | ga bg f/f/f f2 | egBg faBa | ga bg e/e/e e2 ::
+(!trill!cB)eB (!trill!cB)AG | AcBG F/F/F F2 | (!trill!cB)eB (!trill!cB)AG | Ac BG E/E/E E2 :|
+V:2 middle=d clef=bass
+L:1/4
+eeee | bbBB | eeEE | abee ::
+eeee | deBB | egaz/b/ | abee ::
+eEbB | bbBB | eEBB | bBee ::
+aga/g/f/e/ | febB | aga/g/f/e/ | abee :|
+
+X: 143
+T:Duchess of Gordon's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:11 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3986
+%%TBL:{"version":1,"type":"tune","id":"3986"}
+K:D
+%%staves {1 2}
+V:1
+F | \
+D3/2F/ D/A3/2 F/D3/2A/F3/2 | D3/2F/ D/F3/2 [A,E]2 E/F3/2 | \
+D3/2F/ D/A3/2 F/D3/2A/F3/2 | d3/2e/ f/d3/2 !trill!F2- F/A3/2 |
+D3/2F/ D/A3/2 F/D3/2A/F3/2 | D3/2F/ D/F3/2 E2 E/F3/2 | \
+D3/2F/ D/A3/2 F/D3/2A/F3/2 | d3/2e/ f/d3/2 F3 |] 
+A | \
+d3/2e/ f/d3/2 e/B3/2d/A3/2 | !trill!B3/2c/ d/f3/2 !trill!e2 e/f3/2 | \
+d3/2e/ f/d3/2 e/B3/2d/A3/2 | G/B3/2F/A3/2 !trill!E2- E/e3/2 |
+d3/2e/ f/d3/2 e/B3/2d/A3/2 | !trill!B3/2c/ d/f3/2 !trill!e2- e/f3/2 | \
+d3/2e/ f/d3/2 e/B3/2d/A3/2 | G/B3/2F/A3/2 !trill!E3 |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | dddd | ddaA | dddd | dddd | dddd | ddAa | dddd | dddd/ |] \
+z/ | ddgf | gbaA | fdgf | gdaa | fdgf | gbaA | fdgf | gfe3/ |]
+
+X: 220
+T:George's Square
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel?
+Z:Clark Bernst + Richard Robinson
+%%Page:2 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4063
+%%TBL:{"version":1,"type":"tune","id":"4063"}
+K:F
+%%staves {1 2}
+(f |\
+cF)cA cFfd | cFcA dGG(f | c)FcA fgag | dfcA G3 ::
+(e | \
+f)gag fFF(A | f)gaf bgga | fgaf gefc | dfcA G3 :|
+V:2 middle=d clef=bass
+L:1/4
+z/ | ffff | ffgg | ffff | dDg3/ :: \
+z/ | ffff | ffgg | ffcf | dDG3/ :|
+
+X:1
+T:Glenfiddich
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:4 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/6578
+%%TBL:{"version":1,"type":"tune","id":"6578"}
+K:A
+%%staves {1 2}
+V:1
+|:c | \
+[A,EA]2 (c>A) e>Ac>A | E>Ac>A B2 (B>c) | \
+A/A/A (!trill!c3/A/) e>Ac>A | F>d!trill!cB A2 A ::
+f/g/ | \
+a>ef>d e>cA>f | a>ffb !trill!g2 ef/g/ | \
+a>ef>d e<c !trill!BA | F>d!trill!cB A2 A ::
+c | \
+A>E(!trill!F3/E/) (A>E)(!trill!F3/E/) | D>FC>E B,2 B,2 | \
+A>E(!trill!F3/E/) (A>E)(!trill!F3/E/) | F>dc>B A2 A ::
+d | \
+!trill!c3/d/ e<c a<ce<c | f<de<c B2 (Bd) | \
+!trill!c>d e<c f<de<c | F>d!trill!cB A2 A :|
+V:2 middle=d clef=bass
+L:1/4
+|:\
+z/ | aaAA | aAee | aacc | deAA/ :: \
+z/ | cdcA | cdeE | cdcA | deAA/ :: \
+z/ | AAAA | AAee | AAAA | deAA/ :: \
+z/ | Aaaa | aaee | aAdc | deAA/ :|
+
+X: 53
+T:Gollochys Farewel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:2 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3896
+%%TBL:{"version":1,"type":"tune","id":"3896"}
+K:Bb
+%%staves {1 2}
+B<G !trill!F>E !trill!D>C B,>d | !trill!e<c !trill!f>d c/c/c c2 | \
+(c/B/)(_A/G/) (A/G/)(F/E/) D>CB,>d | e<cf>d B/B/B B2 :|
+B>fd>f B>fd>f | e>gd>f c/c/c c2 | \
+B>fd>f B>fd>f | e<g!trill!f>d B/B/B !trill!B2 |
+B>fd>f B>fd>f | e>gd>f c/c/c cg/a/ | \
+bgaf   gefd   | e<c!trill!f>d B/B/B !trill!B2 |]
+V:2 middle=d clef=bass
+L:1/4
+BBBB | c'bb/g/f/e/ | dbBd | efBB :| \
+bBbB | [cc'][Bb]a/c'/f/e/ | dbBd | efBB | BBBB | cBff | gfed | efBB |]
+
+X: 288
+T:The Illumination 9th Feb 1781
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel?
+Z:Clark Bernst + Richard Robinson
+%%Page:8 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4131
+%%TBL:{"version":1,"type":"tune","id":"4131"}
+K:G
+%%staves {1 2}
+V:1
+!trill!g2 (bg) afgd | g2 (bg) af g2 | !trill!g2 bg afgd | =fdcf AFcA ::
+(B/c/d) (BG) ecdc | (B/c/d) (BG) gB d2 | (B/c/d) BG ecdB | cA=FA fA c2 :|
+V:2 middle=d clef=bass
+L:1/4
+gGdB | GgdB | gGdc | =fcAF :: GGgg | ggGG | gggg | =fcAF :|
+
+X: 173
+T:Johnston's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:10 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4016
+%%TBL:{"version":1,"type":"tune","id":"4016"}
+K:E
+%%staves {1 2}
+V:1
+E3/B/G3/B/ E3/B/e3/g/ | b/g3/!trill!f3/(e/ f3/)c/c3/e/ | \
+E3/B/G3/B/ E3/B/e3/g/ | b3/g/f3/g/ e/e/e e2 :| \
+(e/f/g/a/) b3/e/ g3/e/b3/e/ | 
+                              d/B3/f3/B/ a3/B/f3/B/ |1 \
+(e/f/g/a/ b3/)e/ g3/e/b3/e/ | c3/a/!trill!g3/f/ e/e/e e2 :|2 \
+e3/g/f3/a/ g3/b/a3/g/ | (!trill!f3/e/f3/)g/ e/e/e e2 |]
+V:2 middle=d clef=bass
+L:1/4
+eeee | bbff | eeee | Bbee :| \
+eeee | bbbb |1 cccc | abee :|2 eBea | bBee |]
+
+X: 147
+T:Lady Anne Gordon's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:12 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3990
+%%TBL:{"version":1,"type":"tune","id":"3990"}
+K:D
+%%taves {1 2}
+V:1
+(B | \
+AD)!trill!FD EB,B,(B | AD)!trill!FD d2 (df) | gfed eBBd | !trill!FD F/G/A d2 d ::
+f |\
+dg (f/g/a) (be)ef | dg (f/g/a) (fd)e(c | d).BAF EFGB |FD F/G/A d2 d |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | ddee | dddd | dfeg | dAd3/ :: \
+z/ | ddee | dddd | dfeg | dAd3/ |]
+
+X:1
+T:Lady Charlotte Gordon's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:3 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/6576
+%%TBL:{"version":1,"type":"tune","id":"6576"}
+K:F
+%%staves {1 2}
+V:1
+!trill!f2 (cf) BfAf | !trill!f2 (af) gG- G2 | !trill!f2 (cf) BfAf |1 B<Gc>B AF- F2 :|2 dbge af- f2 [|
+AFcF dFcF | (fdc!trill!A) BGG(B | A)!wedge!FcF dFcF | afge fFF(B |
+A)!wedge!FcF dFcF | (fdc!trill!A) BGG(B | A)!wedge!FcF defg | afge fF-Ff |]
+V:2 middle=d clef=bass
+L:1/4
+ff[fb][fa] | ff[cg][cg] | ff[fb][fa] | bc'ff :| bc'ff [| \
+f[fa][fb][fa] | ffcc | f[fa][fb][fa] | c'cfF | f[fa][fb][fa] | ffcc | fabd' | c'cff |]
+
+X: 230
+T:Lady Louisa Gordon's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:7 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4073
+%%TBL:{"version":1,"type":"tune","id":"4073"}
+K:F
+%%staves {1 2}
+V:1
+A | \
+(C<F) (F>G) !trill!A3/G/ A<F | (D<G)(G>A) !trill!B2- B<c | \
+d<f   c<A   !trill!G3/F/ G<A | C>FE>G F3 ::
+(e | \
+f>c) f<a f>c f<(a | f)>c f<a !trill!g2- g<(a | \
+f)>c c<A f>b a<g | f<d !trill!c3/A/ {A}G3 :|
+V:2 middle=d clef=bass
+L:1/4
+z/ | ffFF | GGgg | ffgg | ccf3/ :: \
+z/ | ffff | ffgG | fffc | ddG3/ :|
+
+X:1
+T:Lady Susan Gordon's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:5 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/6580
+%%TBL:{"version":1,"type":"tune","id":"6580"}
+K:Bb
+%%staves { 1 2}
+BfdB fBdB | GBFD EC-C2 | BfdB fBdB | (g/a/b) (fe) dB-B2 :: \
+(D/E/F) (BF) dFBF | ! (E/F/G) (cG) eGcG |1 \
+(D/E/F) (BF) dFBF | FAce dB-!trill!B2 :|2 (D/E/F) (BF) dBfd | (g/a/b) (fe) dB-!trill!B2 |]
+V:2 middle=d clef=bass
+L:1/4
+BBbb | edcc | bBdB | efGG :: \
+BBbb | cccc |1 bBdB | fFBB :|2 BBbb | efbB |]
+
+X: 117
+T:Lord George Gordon's Reel
+B:William Marshall - A Collection of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:1 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3960
+%%TBL:{"version":1,"type":"tune","id":"3960"}
+K:C
+%%staves {1  2}
+V:1
+c2 (ec) (Gc)(ec) | FdEc DG,B,G, | c2 (ec) (Gc)(ec) | fage c/c/c c2 :| \
+(3ege ce (3faf df | (3ege (ce) fddf |
+(3ege ce (3faf df | gefd c/c/c (cf) | \
+(3ege ce (3faf df | (3ege (ce) fddF | \
+ECFD GEcG | FAGE C/C/C C2 |]
+V:2 middle=d clef=bass
+L:1/4
+cccc | dcgG | cccc | fgcc :| \
+ccdd | ccff | ccdd | gGcc | \
+cc'dd' | cc'ff | cdec | fgcc |]
+
+X: 74
+T:Marquis of Huntly's Reel. a Strathspey
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:6 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3917
+%%TBL:{"version":1,"type":"tune","id":"3917"}
+K:G dorian
+%%staves {1 2 }
+(D<G) (!trill!G>F) (D<G) !trill!G2 | F>G A<B !trill!c<AF<A | \
+(D<G) (!trill!G>F) (D<G) !trill!G2 | fc d/c/B/A/ {A}G2 G2 :|
+%
+(!trill!g>a   b)<g  dgbg    | a/g/f/d/ c>d      f<c    a<f | \
+(g>a          b)<g  dgbg    | b/a/g/f/ d>f      g/g/g !trill!g2 |
+(!trill!g>a   b)>g  a>f g>d | f<c      d<f      A<F    c<A | \
+(D<G) (!trill!G>F) (D<G) G2 | fc       d/c/B/A/ {A}G2 !trill!G2 |]
+V:2 middle=d clef=bass
+L:1/4
+gGdg | fcFf | gGdG | ddgG :| \
+ggGG | ffFF | ggGG | ddgg | gGfg | cBAF | gGdG | dDGG |]
+
+X:1
+T:Miss Abercromby's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:5 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/6579
+%%TBL:{"version":1,"type":"tune","id":"6579"}
+K:C minor
+%%staves { 1 2 }
+(ED)CD (EF)GE | FBFB DB,FD | (!trill!ED)CD (EF)Gc | B<G!trill!F3/D/ C/C/C C2 ::
+(ed)cd (ef)ge | (!trill!dcbc) (de)fd |1 \
+(ed)cd (ef)ge | !trill!d3/c/Bd c/c/c c2 :|2 \
+gefd ecdB | G<B!trill!F3/D/ | C/C/C C2 |]
+V:2 middle=d clef=bass
+L:1/4
+cccc | dfBB | ccec | efcc :: \
+ccc'c' | bbBB |1 ccc'c' | BBcc :|2 edcB | edcc |]
+
+X:1
+T:Miss Admiral Gordon's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:3 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/6577
+%%TBL:{"version":1,"type":"tune","id":"6577"}
+K:A
+%%staves {1 2}
+V:1
+"^Slow"
+E | \
+A/A/A (.A<.A) A>E           A<f  | e<c    !trill!B3/A/      {A}F2 !trill!F2 | \
+A/A/A (.A<.A) A>E           A<f  | e>f           a/c3/        e2     (e>f)  | \
+e>f    a<c    e<c   !trill!B3/A/ | !trill!B3/c/ (d/c/)(B/A/) {A}F2 !trill!F2 | \
+A/A/A (.A.A)    A>E          A<f   | e<c !trill!B3/c/ A2 A2 ||
+(C3/E/) (A/E3/) (!trill!F/E3/) (A/E3/) | ~c>e (d/c/)(B/A/) {A}F2 !trill!F2 | \
+(C3/E/) (A/E3/) (!trill!F/E3/)   (A3/E/) | ~c>d (e/f/)(g/a/) {f}e2 (e>g) |
+(a>g) (!trill!f/e3/) (!trill!f/e3/)(d<c) | !trill!B3/c/ (d/c/)(B/A/) {G}F2 F2 | \
+A/A/A (.A.A) A>E A<f | e<c!trill!B3/c/ A2 A2 |]
+V:2 middle=d clef=bass
+[L:1/4]
+z/ | \
+Acea | eedD | Acea | eEAz | AAaa   | ead'd | aecA | eEAA || \
+AAaa | eAdd | AAaa | eEaa | aAd>^d | eEdd' | aecA | eEAA |]
+
+X: 151
+T:Miss Agnes Ross's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:12 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3994
+%%TBL:{"version":1,"type":"tune","id":"3994"}
+K:D
+%%staves {1 2}
+V:1
+F | \
+DA!trill!FA DA!trill!FA | E=c-cG !trill!E2 (CE) | \
+DA!trill!FA DA!trill!FA | Ed-dA !trill!F2 E :|
+(f | \
+d)fdf dfA(f | =c)def g2 (a/g/f/e/) | d.fdf dfAf | defg a2 (b/a/g/f/) |
+dfdf dfAf | =cdef g2 (a/g/f/e/) | afge fdec | dABG !trill!F2 E |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | dddd | cccc | dddd | aAdd/ :| \
+z/ | dddd | aaaa | dddd | dddd | dddd | aaaa | fedc | aAdd/ |]
+
+X: 152
+T:Miss Barbara Stewart's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:8 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3995
+%%TBL:{"version":1,"type":"tune","id":"3995"}
+K:D
+%%staves {1 2}
+V:1
+(g | \
+!trill!fe)de (d/c/B/c/) d2 | FD-D.F A3 (a | ^gf)eg f^d e2 | ^GE-EG B3 (g |
+!trill!fe)de (d/c/B/c/) d2 | FD-DF A3 F | GBAc Be^df | eEE^G B3 |]
+[| (d | \
+A)FDF dFDF | AFDF A3 (d  | B)^GEG eGEG | B^GEG B3 (d |
+A)FDF dFDF | AFDF A3 (^g | a)fge f^d e2 | ^GE-EG B3 |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+dddd  | dd d/a/f/a/ | ee'b^g | e^gbe' | \
+d'daf | dd d/f/a/f/ | gagf   | eBE3/ |] \
+[| z/ | \
+dddd | ddd/a/f/a/ | e^gbg | e^gba | \
+dddd | df a/g/f/e/ | defg | eBE3/ |]
+
+X: 120
+T:Miss Barbara Stewart, West Park
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:13 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3963
+%%TBL:{"version":1,"type":"tune","id":"3963"}
+K:C
+%%staves {1 2}
+V:1
+{B}c2 (G>c) E<C G2 & C2x4C2  | d2 (A>d) F<D A2 & D4x2F2| \
+[Cc]2 (G>c) E<CG>E | D<d-d>e (f>e)(d>c) | 
+{B}c2 (G>c) E<C G2 & C2x4C2  | d2 (A>d) F<D A2 & D4x2F2| \
+[Cc]2 (G>c) E<CG>E | D<d-d>e (f>e)(d>c) |]
+c<ge<g c<g e2 | f<ad>e f>ga>f | \
+e<cg>e (a>g)(f>e) | d<BG>B ~c2 c2 |
+e<gc<g e>gc>e | f<ad>e f>ga>f | \
+e>fg>e a<fd>c | B<GA>B ~c2 c2 |]
+V:2 middle=d clef=bass
+L:1/4
+[Cc] [Cc] [CC] [Ee] | [Ff] [Ff] [Dd] [Dd] | [Ee] [Ee] [Cc] [Cc] | [Gg] [gd'] [gbd'] [gbd'] | \
+[Cc] [Cc] [CC] [Ee] | [Ff] [Ff] [Dd] [Dd] | [Ee] [Ee] [Cc] [Cc] | [Gg] [gd'] [gbd'] [gbd'] |] \
+[Cc] [Cc] [Cc] [Cc] | [gd'f'] [gd'f'] [gd'f'] [gd'f'] | \
+[Cc] [Cc] [Cc] [Cc] | [gd'f'] [gd'f'] [c'e'g'] [c'e'g'] | \
+[Cc] [Cc] [Cc] [Cc] | [gd'f'] [gd'f'] [gd'f'] [gd'f'] | \
+[cc'] [cc'] [Ff] [Ff] | [Gg] [Gg] [cc'] [cc'] |]
+
+X: 196
+T:Miss Fyffe's Strathspey
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+N:Slow when not danced
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:24 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4039
+%%TBL:{"version":1,"type":"tune","id":"4039"}
+K:Eb
+%%staves {1 2}
+V:1
+"^Slow when not danced" \
+e | \
+!trill!B>A G<E B,<EG,<E | D<F-F>~G {G}A2 (Ac) | \
+       B>A G<E B,<EG,<E | G<e-e>G {G}B2 B :|
+c/d/ | \
+(e/d/c/B/) (Ge) B<eGE | D<F-F>!wedge!G {G}A2 A c/d/ | \
+.e.B.g.e   .f.d.e.E   | G<B{d}e>G      {G}B2 B 
+c/d/ | \
+(e/d/c/B/) (.G.E)     .e.E.G.E   | D<F-F>!wedge!G  {G}A2 (Ac) | \
+(B/e/)g/f/ (e/d/)c/B/ {d}e>B c<e | B>G E/F/G/A/    B2 B |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+[Ee][Ee][Ee][Ee] | [Bb]a/g/[Bf][Dd] & xB,,x2 | [Ee][Ee][Ee][Ee] | [Ee][Ee][Ee][Ee]/ :| \
+[ea]/ | \
+[egb][egb][egb][egb] | [Bb]a3//g//[Bf][Bf]/a/ & xB,,x2 | \
+[egb][egb][eab][egb] | [egb][egb][egb][egb]/[eab]/ | \
+[eg][Ee][Ee][Ee] | [Bb][Aa]/[Gg]/[Ff][Dd] | [Ee][Ee][Gg][Aa] | [Gg][Ee][Ee][Ee]/ |]
+
+X: 153
+T:Miss Gordon of Bellies Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:10 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3996
+%%TBL:{"version":1,"type":"tune","id":"3996"}
+K:D
+%%staves {1 2}
+V:1
+g | \
+(!trill!fef).d ecdA | Bdgf !trill!e2 (Ag) | (!trill!fef)d ecdA | BdAG !trill!F2 D ::
+G | \
+!trill!F2 AF G2 BG | !trill!F2 (AF) (G/F/E/D/) (CE) | !trill!F2 AF G2 BG | Edce d2 D :|
+V:2 middle=d clef=bass
+L:1/4
+z/ | dd'af | gbaA | dDAF | GAdD/ :: \
+z/ | ddgg | dd=cc | ddgG | gad'd/ :|
+
+X: 80
+T:Miss Gordon of Cairnfield's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:4 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3923
+%%TBL:{"version":1,"type":"tune","id":"3923"}
+K:Bb
+%%staves {1 2}
+E | \
+!trill!D2 (B,D) FDBF | DB,FD ECCE | !trill!D2 B,D FDBF | ecdA BB,B, :|
+e | \
+defd gefd | ecdB ecce | defd gefd | (!trill!gab).f dBBe |
+defd gefd | ecdc eccd | DB,FD GEBG | FDGE DB,B, |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | BBBB | BBcc | BBbb | efBB/ :| \
+z/ | BBcB | ABcc | Bdcd | efBB | BBAB | edcc | BBee | deBB/ |]
+
+X: 81
+T:Miss Gordon of Glastirum's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:6 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3924
+%%TBL:{"version":1,"type":"tune","id":"3924"}
+K:G minor
+%%staves {1 2}
+!trill!B2 (GB) DGBG | !trill!A2 (Fc) AFcA | B2 (GB) DGBG | !trill!AGFA G/G/G G2 :: \
+dg-ga bgaf | ! cf-f.a bgaf |1 dg-g.a bgaf | {b}agfa g/g/g g2 :|2 \
+defg fdcB | AGFA G/G/G G2 |]
+V:2 middle=d clef=bass
+L:1/4
+gggg | ffff | gggg | d'dgg :: \
+gggz | ffgf |1 gggz | d'dgg :|2 ggBB | cdgg |]
+
+X: 84
+T:Miss Hopkins Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:11 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3927
+%%TBL:{"version":1,"type":"tune","id":"3927"}
+K:Bb
+%%staves {1 2}
+V:1
+FGBd e2- eg | fdcB !trill!cBG(B | FG)Bd e2 eg | fdcd B/B/B B2 :: \
+(!trill!gab)a gfed | 
+                     (!trill!cBc)d BGGB |1 \
+(!trill!gab)a (gf)ed | !trill!cBcd B/B/B B2 :|2 FGBc defg | fdcd B/B/B B2 |]
+V:2 middle=d clef=bass
+L:1/4
+BBee | ffee | bBee | fFBB :: \
+eeee | ffgg |1 eeee | ffbb :|2 BBBB | fFBB |]
+
+X: 123
+T:Miss Jeanny Ross's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:10 - 4
+F:http://richardrobinson.tunebook.org.uk/tune/3966
+%%TBL:{"version":1,"type":"tune","id":"3966"}
+K:C
+%%staves {1 2}
+V:1
+f | \
+e(d!trill!cB) c2 (GF) | EGce fddf | e(!trill!dc)B c2 (GF) | EcDF ECC :: \
+f | \
+(efg)e c'ege | 
+               afge fddf |1 \
+(efg)e c'ege | fa!trill!gf ecc :|2 ecfd geaf | egdf ecc |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | \
+gGcB | ccdd | gGcB | gGcc/ :: \
+z/ | cccc | fedd |1 cccc | fgc'c/ :|2 cdef | ggcc/ |]
+
+X: 252
+T:Miss Jeanny Williamson's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:7 - 4
+F:http://richardrobinson.tunebook.org.uk/tune/4095
+%%TBL:{"version":1,"type":"tune","id":"4095"}
+K:F
+%%staves {1 2}
+V:1
+A | \
+!trill!F2 (AF) cFAF | !trill!G2 (BG) dGBG | !trill!F2 (AF) cFAF | BG (A/B/c/B/) (AF)F ::
+e | \
+fc (d/c/B/c/) (fc)af | gd (b/a/g/f/) (gd)da |1 \
+fc (d/c/B/c/) (fc)ag | 
+                       f(d!trill!cB) AFF :|2 fgdf cdAc |BGcB AFF |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | FFFF | GGGG |  FFFF | BcF3/ ::  \
+z/ | ffff | gggg |1 ffff | ccFz/ :|2 dBcA | Bc F3/ |]
+
+X: 255
+T:Miss McQueens Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:5 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4098
+%%TBL:{"version":1,"type":"tune","id":"4098"}
+K:F
+%%staves { 1 2 }
+F>G (B/A/)(G/F/) c<Ad<B | f>dc>A G/G/G G2 | \
+F>G (B/A/)(G/F/) c<Ad>B | f>d !trill!c3/A/ F/F/F F2 :: 
+f>g (b/a/)(g/f/) c<fa<f | b>ga>f g/g/g !trill!g2 |1 \
+f>g (b/a/)(g/f/) c<fa<f | b>ga>e f/f/f !trill!f2 :|2 \
+c<f (d/c/)(B/A/) d<fd<B | !trill!c3/B/!trill!A3/G/ F/F/F !trill!F2 |]
+V:2 middle=d clef=bass
+L:1/4
+fffz | ffgg | fffb | fc FF :: \
+ffff | cfgg |1 ffff | c'cff :|2 ffBB | c'cff |]
+
+X: 256
+T:Miss Ross's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:11 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4099
+%%TBL:{"version":1,"type":"tune","id":"4099"}
+K:F
+%%staves {1 2}
+V:1
+A | \
+F/F/F (fd) cfc(A | B)d!trill!cA BGGA | F/F/F (fd) cfc(A | B)d!trill!cB AFF :| \
+e | \
+(!trill!fg).a.f cfa(f | d).fcA BGGe | 
+                         (!trill!fga).f bga(f | d).f!trill!cB AFFe | \
+(!trill!fga).f bgaf | cfaf bg-g.a | fcAf dfc(A | B)d!trill!cB AFF |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | ffff | bagg | ffff | bc'ff/ :| \
+z/ | ffaf | bagg | ffgf | bc'ff | ffgf | afgg | afba | bc'ff/ |]
+
+X: 282
+T:Mr James Bennet's Reel
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:24 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4125
+%%TBL:{"version":1,"type":"tune","id":"4125"}
+K:G
+%%staves {1 2}
+V:1
+(!trill!gfg)!wedge!d {f}e2 (dc) | BGAB A/A/A A2 | \
+(!trill!gfg)!wedge!d {f}e2 (dc) | BGAc G/G/G G2 ::
+BGdG eGdG | BGAB A/A/A A2 | BGdG eGdG | BGAB G/G/G G2 ::
+(!trill!gfg)!wedge!d e2 (ab) | c'ba^g a2 (ab) | c'bag e2 (dg) | BGAB G/G/G G2 :|
+(!trill!BAG)!wedge!B dgdB | cedB A/A/A (Ac) |1 \
+(BAG)!wedge!B dgdB | cedB G/G/G (Gc) :|2 BGcA dBec | gedB G/G/G G2 |]
+V:2 middle=d clef=bass
+L:1/4
+[Gg][Gg][Gcg][GBg] |[Gg][Gg][Dd][Dd] | [Gg][Gg][Gcg][Gbg] | dD[Gg][Gg] :: \
+[Gg][gb][gc'][gb] | [gbd'][gbd'][Dd][Dd] | [Gg][gb][gc'][gb] | [gd'][gc'd'][gbd'][gbd'] :: \
+[Gg][Gg][cc'][cc'] | [Aa][Aa][Aa][Aa] | [Aa][Bb][cc'][Bb] | d'd[Gg][Gg] :: \
+[gbd'][gbd'][gbd'][gbd'] | [fd'][gd'][dd'][dd'] | [gbd'][gbd'][gbd'][gbd'] | [cc'][dac'][Gg][Gg] :| \
+[Gg][Cc][B,B][Cc] | [Cc][Dd][G,G][G,G] |]
+
+X: 22
+T:Mr Johnsons Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:1 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3865
+%%TBL:{"version":1,"type":"tune","id":"3865"}
+K:A
+%%staves {1 2}
+V:1
+AEcA ecae | fdec (!trill!B>AB)c | AEcA ecae | dbca !trill!B2 A2 ::
+(!trill!cA)EA FAEA | EFGA BcdB | (!trill!cA)EA FAEA |dfce !trill!B2 A2 :|
+V:2 middle=d clef=bass
+L:1/4
+AaAa | dcee | Acea | baeA :: \
+AAaa | eeEE | aadc | BAeA :|
+
+X: 262
+T:Mrs Gordon of Bellie's Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:9 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4105
+%%TBL:{"version":1,"type":"tune","id":"4105"}
+K:F
+%%staves {1 2}
+V:1
+c |\
+(A/d3/)(!trill!d3/c/) A/F3/F3/(A/ | c3/)d/ !trill!c/A3/ {A}G2 (Gc) | \
+(A/d3/)(!trill!d3/c/) A/F3/F3/(e/ | f3/).g/ a/c3/ A2 A ::
+G | \
+F/f3/-f3/g/ (f/a3/)(!trill!a3/g/) | f/d3/!trill!c3/A/ {A}G2 (G3/A/) | \
+F/f3/-f3/g/ (f/a3/)(!trill!a3/g/) | f/c3/d3/f/ !trill!A2 A ::
+d | \
+c/A3/A3/d/ c/A3/A3/d/ | c/A3/!trill!A3/F/ {F}G2 (Gd) | \
+c/A3/A3/d/ c/A3/A3/a/ | fcdf !trill!A2 (A3/d/) |
+c/A3/A3/d/ c/A3/A3/d/ | c/A3/!trill!A3/F/ {F}G2 (G3/A/) |\
+F3/G/ A/d3/ c/A3/A3/a/ | fcdf !trill!A2 A ::
+g | \
+f3/g/ a/g3/ f/d3/d/f3/ | c/A3/!trill!A3/F/ {F}G2 (GA) | \
+f3/g/ a/g3/ f/d3/d/f3/ | c/A3/f3/g/ !trill!a2 (a3/g/) |
+f3/g/ a/g3/ f/d3/d/f3/ | c/A3/!trill!A3/F/ {F}G2 (G3/A/) | \
+F3/G/ A/d3/ c/A3/A/a3/ | fcdf !trill!A2 A |]
+|: G | \
+F3/G/ A/f3/ c/A3/G/f3/ | c/A3/!trill!A3/F/ {F}G2 (G3/A/) | \
+F3/G/ A/f3/ c/A3/A/a3/ | f3/c/ d/f3/ !trill!A2 A :|
+[| f/g/ | \
+a3/f/g3/e/ f3/c/ d/f3/ | c/A3/A3/F/ {F}G2 G f/g/ | \
+a3/f/g3/e/ f3/c/ d/f3/ | c/A3/f3/g/ a2 a f/g/ |
+a3/f/g3/e/ f3/c/ d/f3/ | c/A3/!trill!A3/F/ {F}G2 GA | \
+F3/G/ A/d3/ c/A3/A/a3/ | f3/c/ d/f3/ !trill!A2 A |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | [df][df]ff | ffgg | ffff | fcFF/ :: \
+z/ | ffff | ffgg | ffff | ffff/ :: \
+z/ | ffff | ffgg | ffff | ffff | ffff | ffgg | ffff | abff/ :: \
+z/ | ffff | ffgg | ffff | ffff | ffff | ffgg | ffff | abff/ |] |: \
+z/ | ffff | ffgg | ffff | ffff/ :| [| \
+z/ | fcff | ffgg | fcff | ffff | fcAB | ffgg | ff[Ff][Ff] | ABfF/ |]
+
+X: 34
+T:Mrs Ross' Reel
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel
+Z:Clark Bernst + Richard Robinson
+%%Page:4 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3877
+%%TBL:{"version":1,"type":"tune","id":"3877"}
+K:A
+%%staves {1 2}
+V:1
+AECA, AEcA | dBec B/B/B !trill!B2 | AECA, AEcA | dBac A/A/A A2 :: 
+(A/c/e a)e fdec | dBbc B/B/B B2 |1 \
+(A/c/e a)e fdec | dBac A/A/A A2 :|2 \
+AECE AcBd | ceac A/A/A A2 |]
+V:2 middle=d clef=bass
+L:1/4
+AaeA | BAeE | Acea | eEAA :: \
+aaaa | b>aee |1 aaaa | eeAA :|2 Aacd | eEAA |]
+
+X: 167
+T:the Road to Berwick
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel?
+Z:Clark Bernst + Richard Robinson
+%%Page:3 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4010
+%%TBL:{"version":1,"type":"tune","id":"4010"}
+K:D
+%%staves {1 2}
+V:1
+F<DAF BGAF | DAdf e2 E2 | F<DAF BGAF | Adce d2 D2 :: 
+(f/g/a) (fd) bgag | (f/g/a) (fd) b2 (eg) |1 (f/g/a) (fd) bgag | fdec d2 D2 :|2\
+ fdge afbg |fdec d2 D2 |]
+V:2 middle=d clef=bass
+L:1/4
+dddd | ffee | dddd | aAdd :: \
+dddd | ddee |1 dddd | aAdd :|2 defg | aAdd |]
+
+X: 98
+T:Run down the Town in Haste
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Reel?
+Z:Clark Bernst + Richard Robinson
+%%Page:2 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/3941
+%%TBL:{"version":1,"type":"tune","id":"3941"}
+K:Bb
+%%staves {1 2}
+d | \
+B2 (dB) fBdB | GFGB (!trill!cBc)d | B/B/B (dB) fBdB | egfe dB-B ::
+E | \
+(D/E/F) (B,F) BFdB | GFGB (!trill!cBc)d | Bfdf egdf | (!trill!cBc)d B/B/B B2 |
+(D/E/F) (B,F) BFdB | GFGB (!trill!cBc)d | f/f/f (!trill!gf) bfdB | egfe dB-B |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | BBBB | eeff | bbbb | efBB/ :: \
+z/ | BBBB | eeff | bbef | fFBB | BBBB | eeff | bBBB | efBB/ |]
+
+X: 168
+T:Strathdown
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C
+O:Scotland
+R:Strathspey
+Z:Clark Bernst + Richard Robinson
+%%Page:10 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4011
+%%TBL:{"version":1,"type":"tune","id":"4011"}
+K:D
+%%staves {1 2}
+V:1
+F | \
+D/E/F/G/ AF D/D/D !trill!B2 | A/d3/2A3/2F/ G3/2E/ E/F3/2 | \
+D/E/F/G/ AF D/D/D !trill!B2 | A/d3/2A3/2G/ FDD :: \
+g | \
+!trill!f3/2e/ d/e3/2 d/d/d !trill!f2 |
+                         d/e3/!trill!f3/d/ e3/2E/ E/g3/2 |1 \
+!trill!f3/2e/ d/e3/2 d/d/d !trill!f2 | B/d3/2A3/2G/ FDD :|2 \
+f3/2b/e3/2f/ d3/2e/c3/2d/ | B/d3/2!trill!A3/2G/ FDD |]
+V:2 middle=d clef=bass
+L:1/4
+z/ | dddg | aaee | dddG | aAdd/ :: \
+z/ | dddd | ddee |1 dddd | gadd/ :|2 d'cba  gadd/ |]
+
+X: 169
+T:There's nae Harm Done Goodwife
+B:William Marshall A Collection Of Strathspey Reels (1781)
+C:William Marshall
+L:1/8
+M:C|
+O:Scotland
+R:Reel?
+Z:Clark Bernst + Richard Robinson
+%%Page:7 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4012
+%%TBL:{"version":1,"type":"tune","id":"4012"}
+K:D
+%%staves {1 2}
+V:1
+D2- DA F<DdF | E2- Ee ^G<Eeg | fdec dBAF | GBAF D/D/D D2 :| \
+abaf dfaf | 
+            gebe gebe |1 \
+abaf dfaf | geaf d/d/d d2 :|2 \
+dfeg fbec | dBAF D/D/D D2 |]
+V:2 middle=d clef=bass
+L:1/4
+dddd | eeee | dcBA | gadd :| \
+dddd | eeee | |1 fdfa | gadd :|2 dcBA | GA DD |]
+
+
+%%TunebookLive:end

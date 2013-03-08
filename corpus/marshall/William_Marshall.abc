@@ -1,0 +1,368 @@
+%%TunebookLive:start
+%%parent:1
+%%pdflink:http://richardrobinson.tunebook.org.uk/static/NoMarshall.pdf
+%%ishtml:1
+%%TBL:{"version":1,"type":"collection","id":"37"}
+%%alias:WmMarshall
+%%Title:William Marshall
+
+X: 2
+T:Capt Charles Gordon, R.N., Huntly
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+Q:1/4
+Z:Clark Bernst
+%%Page:30 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3845
+%%TBL:{"version":1,"type":"tune","id":"3845"}
+K:A
+Q:1/4     %Tempo
+E  | \
+A/A3/2 A3/2A/ G3/2B/ G3/2E/ | A/A3/2 A3/2A/ c3/2e/ c3/2A/ | \
+(3def (3edc B2 GE | F/G/A/F/ G/A/B/G/ A2 A2 |
+(3cea (3edc B2 GE | (3cea (3ecG (3Afe (3c3/2B/A | \
+(3d3/2e/f (3edc B2 GE | F/G/A/F/ G/A/B/G/ A2 A2 |
+(3cea (3edc B2 G3/2E/ | (3cea (3ecG (3Afe (3c3/2B/A | \
+(3d3/2e/f (3eac B2 GE | F/G/A/F/ G/A/B/G/ A2 A2 |]
+
+X: 181
+T:the Earl of Angus and Arran
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+R:Slow Strathspey
+Z:Clark Bernst
+%%Page:33 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4024
+%%TBL:{"version":1,"type":"tune","id":"4024"}
+K:Eb
+B, [| \
+E/E3/2 B2 {A}G3/2F/E3/2G/ | A/D3/2F3/2E/ D/B,3/2C3/2D/ | \
+E/E3/2 B2 {A}G3/2F/E3/2G/ | A/C3/2F3/2D/ E2 E3/2B,/ |
+E/E3/2 B2 G3/2F/E3/2G/ | A/D3/2F3/2E/ D/B,3/2C3/2D/ | \
+E/E3/2 B2 {A}G3/2F/E3/2G/ | A/C3/2F3/2D/ E2 E3/2B/ [|
+G/B3/2E3/2B/ G/B3/2E3/2d/ | e/E3/2G3/2E/ D/F3/2F3/2A/ | \
+G/B3/2E3/2B/ GBE3/2g/ | f3/2e/d3/2c/ B2 BG |
+A/c3/2F3/2A/ G/B3/2E3/2G/ | F3/2G/A3/2G/ FEDB, | \
+E/G3/2F/A3/2 G/B3/2A3/2c/ | B/e3/2d3/2f/ e2 eB, |]
+
+X: 176
+T:the Farewell
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+N:Slow with much expression
+O:Scotland
+R:Air
+Z:Clark Bernst
+%%Page:35 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4019
+%%TBL:{"version":1,"type":"tune","id":"4019"}
+K:E
+G3/4A/4 [| \
+B3/2A/G3/2{G}F/ E/G/B/e/ g3/2e/ | f/B/f/g/ {b}ag/a/ {g}f F/G/ FG/A/ |
+B3/2{B}A/G3/2{G}F/ (3E/G/B/ (3e/g/b/ ag/f/ | f/e/d/c/ B/d/e/f/ ge e G/A/ |
+B3/2A/ GG/F/ E/G/B/e/ g3/2e/ | f/B/f/g/ {b}ag/a/ {g}f F/G/ FG/A/ | \
+B3/2A/G{G}F (3E/G/B/ (3e/g/b/ ag/f/ | f/e/d/c/ c/B/A/G/ BE E g3/4a// [|
+b3/2e/g3/2b/ {d}e3/2{fede}f/g3/2e/ | a3/2f/ g/b/a/g/ f F3/4G/4 F g/a/ |
+be g/4a/4g/4f/4e/d/ f/e/d/c/ c/B/A/G/ | A/c/B/e/ d/f/B/a/ ge e g/a/ |
+b3/2e/g3/2d/ eE c/B/A/G/ | B,/E/G/B/ A/c/d/e/ {e}g3/2f/ f G/A/ |
+B3/2A/G3/2{G}F/ (3E/G/B/ (3e/g/b/ ag/f/ | f/e/d/c/ c/B/A/G/ BE E G3/4A// |]
+
+X: 10
+T:Lady John Scott
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+Q:1/4
+R:Strathspey
+Z:Clark Bernst
+%%Page:28 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3853
+%%TBL:{"version":1,"type":"tune","id":"3853"}
+K:A
+Q:1/4    %Tempo
+A/E3/2A3/2c/ B3/2A/ B/c3/2 | e/c3/2B3/2A/ BA F2 | \
+A/E3/2A3/2c/ B3/2A/ B/c3/2 | e/c3/2B3/2c/ A/A/A A2 :|
+A/a/g/a/ f/e/d/c/ d/e/f/e/ d/c/B/A/ | B/c/d/c/ d/c/B/A/ B3/2A/ F2 | \
+A/a/g/a/ f/e/d/c/ d/e/f/g/ ac | B3/2A/Bc A/A/A A2 ||
+A/a/g/a/ f/e/d/c/ d/e/f/e/ d/c/B/A/ | B/c/d/c/ d/c/B/A/ B3/2A/ F2 | \
+A/E3/2A3/2c/ B3/2A/ B/c3/2 | e/c3/2B3/2c/ A/A/A A2 |]
+
+X: 187
+T:Lady Peel
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+N:Moderately Slow.  Same tune as 'Miss Gibson Craig' one
+N:page earlier
+O:Scotland
+R:Strathspey
+Z:Clark Bernst
+%%Page:33 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4030
+%%TBL:{"version":1,"type":"tune","id":"4030"}
+K:Eb
+B, [| \
+E3/2{FEDE}F/ E/D/{D}C/B,/ CFF3/2G/ | EBGe Bgeb | \
+E3/2{FEDE}F/ E/D/{D}C/B,/ CFF3/2G/ | B,3/2E/ E/D/{D}C/B,/ E2 EB, |
+E3/2{FEDE}F/ E/D/{D}C/B,/ CFF3/2G/ | EBGe Bgeb | \
+E3/2{FEDE}F/ E/D/{D}C/B,/ CFF3/2G/ | B,3/2E/ E/D/{D}C/B,/ E2 EB, [|
+e3/2f/ e/d/c/B/ cff3/2g/ | egce BeGE | \
+e3/2{g}f/ e/d/c/B/ cff3/2g/ | e3/4d//c/B/ cd e2 eB |
+e3/2f/ e3/4d//c/B/ cff3/2g/ | egce BeG3/2E/ | \
+AcGB CFFG | C3/2E/ E/D/{D}C/B,/ E2 EB, |]
+
+X: 25
+T:Lord John Scott
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+R:Reel
+Z:Clark Bernst
+%%Page:28 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3868
+%%TBL:{"version":1,"type":"tune","id":"3868"}
+K:A
+A2 ce dcBA | fgae dcBA | dfBd ceAc | dBcA AGFE |
+A2 ce dcBA | fgae dcBA | fdec dBcA | AGFE A2 A2 ||
+^dede fgaf | gbag agfe | ^dBfB gBfB | bgaf e^dcB |
+^dede fgaf | gbag agfe | bgaf gef^d | Be^df e2 e2 |]
+
+X: 240
+T:Miss Anne Gordon
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+R:Slow Strathspey
+Z:Clark Bernst
+%%Page:32 - 3
+F:http://richardrobinson.tunebook.org.uk/tune/4083
+%%TBL:{"version":1,"type":"tune","id":"4083"}
+K:F
+A [| \
+F/F/F F3/2d/ c/F3/2A/f3/2 | F/F/F F3/2G/ AGD3/2E/ | \
+F/F/F F3/2d/ c/F3/2A/g3/2 | f/d3/2c3/2A/ A3/2G/DA |
+F/F/F F3/2d/ c/F3/2A/f3/2 | F/F/F F3/2G/ AGD3/2E/ | \
+F/F/F F3/2d/ c/F3/2A/g3/2 | f/d3/2c3/2A/ A3/2G/De [|
+f/A3/2f/a3/2 c/f3/2Aa | f/c3/2f3/2a/ g2 d3/2e/ | \
+f/A3/2f/a3/2 c3/2f/a3/2g/ | f/A3/2 A/A/A G2 De |
+f/A3/2f/a3/2 c/f3/2Aa | f/c3/2f3/2a/ g2 d3/2e/ | \
+f3/2a/g3/2b/ a/f3/2g3/2e/ |[f/A/]A3/2 A/A/A A3/2G/DA |]
+
+X: 197
+T:Miss Gibson Craig
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+N:Same tune as"Ef Lady Peel"
+O:Scotland
+R:Slow Strathspey
+Z:Clark Bernst
+%%Page:31 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4040
+%%TBL:{"version":1,"type":"tune","id":"4040"}
+K:Eb
+B, [| \
+E3/2F/ E/D/C/B,/ CFFG | EBGe Bgeb | \
+E3/2F/ E/D/C/B,/ CFFG | B,3/2E/ E/D/C/B,/ E2 EB, |
+E3/2F/ E/D/C/B,/ CFFG | EBGe Bgeb | \
+E3/2F/ E/D/C/B,/ CF FG | B,3/2E/ E/D/C/B,/ E2 EB [|
+e3/2f/ e/d/c/B/ cffg | egce BeGE | \
+e3/2f/ e/d/c/B/ cffg | e/d/c/B/ cd e2 eB |
+e3/2f/ e/d/c/B/ cffg | egce BeGE |\
+A,cG,B DFFG | B,3/2E/ E/D/C/B,/ E2 EB, |]
+
+X: 16
+T:Miss Helen McInnes
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:6/8
+O:Scotland
+R:Jig
+Z:Clark Bernst
+%%Page:29 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3859
+%%TBL:{"version":1,"type":"tune","id":"3859"}
+K:A
+E2 A A2 F | GAB BGE | EGA ABc | d3/2e/f ecA | dfa edc | \
+B3/2c/A GFE | F3/2G/A BGE | A3 A2 e ||
+cea cea | ^dfb dfb | geB geB | fge {e}^dcB | bgb afa | \
+geg f^dB | c3/2d/e f^dB | e3 E3 ||
+E2 A A2 F | GAB BGE | EFG ABc | def ecA | \
+{e}d2 c fed | cBA GFE | F2 B {A}GFE | {G}A3 A2 e |]
+
+X: 17
+T:Miss Jane McInnes, Dandaleith
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+R:Strathspey
+Z:Clark Bernst
+%%Page:29 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3860
+%%TBL:{"version":1,"type":"tune","id":"3860"}
+K:A
+c  [| \
+E/E3/2E3/2F/ =G3 B | A/A3/2A3/2c/ e/d/c/B/ Ac | \
+E/E3/2E3/2F/ =G2 Gc/d/ | e3/2c/d3/2B/ c/A3/2Ac |
+E/E3/2E3/2F/ =G3 B | A/A3/2A3/2c/ e/d/c/B/ Ac | \
+E/E3/2E3/2F/ =G2 Gc/d/ | e3/2c/d3/2B/ c/A3/2Ag ||
+a2 e3/2g/ a/g/f/e/ c/A3/2 | B/=g3/2d/g3/2 B/G3/2 G f/^g/ | \
+aegb aecA | fagb a/A3/2 A f/g/ |
+aefd cecA | B/=g3/2d/g3/2 B/G3/2G3/2B/ | \
+cA A/A/A {g}a2 gb | a/g/f/e/ a3/2e/ c/A3/2Ac |]
+
+X: 200
+T:Mr George A Young
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+R:Slow Strathspey
+Z:Clark Bernst
+%%Page:32 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4043
+%%TBL:{"version":1,"type":"tune","id":"4043"}
+K:Eb
+B [| \
+A/G/F/E/ B,3/2E/ Ac B2 | G3/2A/B3/2e/ a3/2g/f3/2F/ | \
+B3/2A/GE A/c3/2 B2 | ge g/f/e/d/ e2 eB |
+A/G/F/E/ B,3/2E/ Ac B2 | G3/2A/B3/2e/ a3/2g/f3/2F/ | \
+B3/2A/GE A/c3/2 B2 | g3/2e/ g/f/e/d/ e2 eB, [|
+G,EB,G EBGe | B,FDB FdBf | \
+E3/2F/Eg D3/2E/Df | e3/2B/ A/G/F/E/ D/E/F/D/ B,3/2A,/ |
+G,EB,G EBGe | B,FDB FdBf | \
+e3/2E/ c/B/A/G/ A/B/c/d/ e3/2E/ | F/E/D/C/ B,/C/D/B,/ E2 EB |]
+
+X: 38
+T:Mr George Forbes yr of New and Edinglassie
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+R:Reel
+Z:Clark Bernst
+%%Page:34 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/3881
+%%TBL:{"version":1,"type":"tune","id":"3881"}
+K:Ab
+C [| \
+F2 FG A2 GF | GEGB eBGE | F2 FG A2 Ac | G/E3/2BG F/F/F F2 :| \
+fgfe cfaf | ecBe GEBG | ! fgfe cfaf | e3/2c/BG F/F/F F=e | \
+fagb afgd | e3/2c/Be GEBG | AcBd cf=eg | a3/2f/g=e f/f/f f2 |]
+
+X: 28
+T:Mrs Capt Charles Gordon, Huntly
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+N:Slow when not danced
+O:Scotland
+R:Strathspey
+Z:Clark Bernst
+%%Page:30 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3871
+%%TBL:{"version":1,"type":"tune","id":"3871"}
+K:A
+e/f/4g/4 | \
+a2 a3/2e/ f/b/a/g/ a3/2e/ | f/b3/2b3/2a/ g/e3/2 ef/g/ | \
+a2 ae f/e/d/c/ d/c/B/A/   | F/B/G/B/ A/f/e/d/ c/A3/2 Ae/f/4g/4 |
+a2 a3/2e/ f/b/a/g/ a3/2e/ | f/b3/2b3/2a/ g/e3/2 ef/g/ | \
+a2 ae f/e/d/c/ d/c/B/A/   | F/B/G/B/ A/f/e/d/ c/A3/2 Af/g/ ||
+aAcA eAcA | B/d/c/e/ d/c/B/A/ B/F3/2 Ff/g/ | \
+aAcA eAcA | f/g/a/f/ g/b/a/g/ aA Af/g/ |
+aecA ecAC | D3/2F/ E/C3/2 B,B Bb/g/ | \
+f3/2b/ a/g/f/e/ f/e/f/g/ a3/2A/ | F/B/G/B/ A/f/e/d/ c/A3/2 Ae/f/4g/4 |]
+
+X: 206
+T:Mrs Sherrif Cameron, Elgin
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+R:Slow Strathspey
+Z:Clark Bernst
+%%Page:32 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/4049
+%%TBL:{"version":1,"type":"tune","id":"4049"}
+K:Eb
+e [| \
+B3/2A/ G/E3/2 B,/D3/2G,/E3/2 | D/F3/2F3/2G/ A2 Ac | \
+B3/2A/ G/E3/2 B,/D3/2G,/E3/2 | G/e3/2e3/2G/ {G}B2 Be |
+B3/2A/ G/E3/2 B,/D3/2G,/E3/2 | D/F3/2F3/2G/ A2 Ac | \
+B3/2A/ G/E3/2 B,/D3/2G,/E3/2 | G/e3/2e3/2G/ {G}B2 Bd [|
+e/d/c/B/ G3/2e/ B3/2e/G3/2E/ | D/F3/2F3/2G/ {B}A2 Ac | \
+e3/2B/ge fdeE | G/B3/2e3/2G/ B2 Bc/d/ |
+e/d/c/B/ G3/2E/ e3/2E/GE | D/F3/2F3/2G/ {B}A2 Ac | \
+B/e/g/f/ e/d/c/B/ e3/2B/ c/e3/2 | B3/2G/ E/F/G/A/ B2 Be |]
+
+X: 41
+T:Sir Charles Forbes of New & Edinglassie
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+N:Slow with feeling
+O:Scotland
+R:Air
+Z:Clark Bernst
+%%Page:34 - 1
+F:http://richardrobinson.tunebook.org.uk/tune/3884
+%%TBL:{"version":1,"type":"tune","id":"3884"}
+K:Ab
+C [| \
+F3/2G/A3/2B/ A/G/F/E/ c/B/A/G/ | F3/2G/A3/2B/ {CE}cA, cB/A/ | \
+Ge {d}e^d/c/ B/A/G/F/ E3/2G/ | B/A/G/F/ A/G/F/=E/ {E}F2 FC |
+F3/2G/A3/2B/ A/G/F/E/ c/B/A/G/ | F3/2G/A3/2B/ {CE}cA, cB/A/ | \
+Ge {d}ed/c/ B/A/G/F/ E3/2G/ | B/A/G/F/ A/G/F/=E/ {E}F2 Fc ||
+f3/2g/a3/2f/ geeg | f3/2g/a3/2f/ a/g/f/=e/ fg | \
+f3/2g/ab geeg | f3/2e/c=e f2 fc |
+f3/2g/a3/2f/ geeg | fagb afg=d | \
+{EB}e/d/c/B/ eB GEEG | F/G/A/B/ cC {E}F2 FC |]
+
+X: 207
+T:William Gibson Graig M.P.
+B:William Marshall Volume 2nd Of A Collection Of Scottish Melodies (1845)
+C:William Marshall
+L:1/8
+M:4/4
+O:Scotland
+R:Strathspey
+Z:Clark Bernst
+%%Page:31 - 2
+F:http://richardrobinson.tunebook.org.uk/tune/4050
+%%TBL:{"version":1,"type":"tune","id":"4050"}
+K:Eb
+G/F/ [| \
+EG,B,G, B,EGE | B3/2G/ A/G/F/E/ F2 FG/F/ | \
+EG,B,G, GEec | B3/2G/ B/A/G/F/ E2 EG/F/ |
+EG,B,G, B,EGE | B3/2G/ A/G/F/E/ F2 FG/F/ | \
+EG,B,G, GEec | B3/2G/ B/A/G/F/ E2 E c/d/ [|
+eEGB e/f/g/a/ be | cffe edcd | \
+.e.E.c.E .G.B.e.G | F/E/D/C/ B,/C/D/B,/ E2 E c/d/ |
+eEGB e/f/g/a/ be | cffe edcd | \
+e3/2f/ f/e/d/c/ B/A/G/F/ EB, | CA,B,D E2 E G/F/ |]
+
+
+%%TunebookLive:end
