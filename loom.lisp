@@ -46,6 +46,21 @@
 			   :if-exists :supersede)
 	(format out "~a~T~a~T~a" "Time" "Pitch" "Length")
 	(dolist (note notes)
-	  (format out "~&~A~T~a~T~a" sum (car note) (cdr note))
+	  (format out "~&~A~T~a~T~a" (coerce sum 'float) (car note) (coerce (cdr note) 'float))
+	  (incf sum (cdr note)))))))
+      
+
+(defun to-csv-time-pitch (tunes)
+  (dolist (tune tunes)
+    (let
+	((raw-tune (car tune))
+	 (notes (cdr tune))
+	 (sum 0))
+      (with-open-file (out (concatenate 'string "~/src/loom/output/" (cl-ppcre:regex-replace-all "\\s+" (cl-abc::tune-title raw-tune) "_") ".csv")
+			   :direction :output
+			   :if-exists :supersede)
+;	(format out "~a~T~a" "Time" "Pitch")
+	(dolist (note notes)
+	  (format out "~&~A~T~a" (coerce sum 'float) (car note))
 	  (incf sum (cdr note)))))))
       
