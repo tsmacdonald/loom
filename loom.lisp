@@ -1,5 +1,11 @@
 (in-package #:loom)
 
+(defparameter *default-corpus* '("~/src/loom/corpus/marshall/William_Marshall.abc"
+;"~/src/loom/corpus/marshall/William_Marshall_A_Collection_of_Strathspey_Reels__1781.abc"
+;"~/src/loom/corpus/marshall/William_Marshall_Kinrara_1800.abc"
+;"~/src/loom/corpus/marshall/William_Marshalls_Scottish_Airs_Melodies_Strathspeys_Reels_c_1822.abc"
+"~/src/loom/corpus/marshall/William_Marshalls_Scottish_Melodies_Reels_Strathspeys_volume_2nd_1845.abc"))
+
 (defun read-and-preprocess (files)
   (mapcar #'extract-features (apply #'append (mapcar #'cl-abc::parse-file files))))
 
@@ -7,6 +13,7 @@
   (cons tune (mapcar #'note-to-int-pair (apply #'append (cl-abc::tune-melody tune)))))
 
 (defun note-to-int-pair (note)
+  "Returns a cons cell containing the pitch (as an integer) and the length (as a rational)"
   (let
       ((pitch (cl-abc::note-pitch note)))
     (cons
@@ -32,10 +39,13 @@
   (dolist (tune tunes)
     (let
 	((raw-tune (car tune))
-	 (notes (cdr tune)))
+	 (notes (cdr tune))
+	 (sum 0))
       (with-open-file (out (concatenate 'string "~/src/loom/output/" (cl-ppcre:regex-replace-all "\\s+" (cl-abc::tune-title raw-tune) "_") ".csv")
 			   :direction :output
 			   :if-exists :supersede)
+	(format out "~a~T~a~T~a" "Time" "Pitch" "Length")
 	(dolist (note notes)
-	  (format out "~&~a~T~a" (car note) (cdr note)))))))
+	  (format out "~&~A~T~a~T~a" sum (car note) (cdr note))
+	  (incf sum (cdr note)))))))
       
