@@ -41,7 +41,7 @@
 	((raw-tune (car tune))
 	 (notes (cdr tune))
 	 (sum 0))
-      (with-open-file (out (concatenate 'string "~/src/loom/output/" (cl-ppcre:regex-replace-all "\\s+" (cl-abc::tune-title raw-tune) "_") ".csv")
+      (with-open-file (out (concatenate 'string "~/src/loom/output/" (cl-ppcre:regex-replace-all "[^a-zA-Z0-9]+" (cl-abc::tune-title raw-tune) "_") ".csv")
 			   :direction :output
 			   :if-exists :supersede)
 	(format out "~a~T~a~T~a" "Time" "Pitch" "Length")
@@ -56,7 +56,7 @@
 	((raw-tune (car tune))
 	 (notes (cdr tune))
 	 (sum 0))
-      (with-open-file (out (concatenate 'string "~/src/loom/output/" (cl-ppcre:regex-replace-all "\\s+" (cl-abc::tune-title raw-tune) "_") ".csv")
+      (with-open-file (out (concatenate 'string "~/src/loom/output/" (cl-ppcre:regex-replace-all "[^a-zA-Z0-9]+" (cl-abc::tune-title raw-tune) "_") ".csv")
 			   :direction :output
 			   :if-exists :supersede)
 ;	(format out "~a~T~a" "Time" "Pitch")
