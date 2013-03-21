@@ -1,8 +1,9 @@
 #!/bin/bash
-for file in $(echo *.csv); do
+for file in "$@"; do
+  shortname=`basename $file`
   gnuplot <<EOF
   set terminal post enh
-  set output "output_${file}.ps"
+  set output "output_${shortname}.ps"
   set datafile separator ' '
   plot "$file" u 1:2
 EOF
