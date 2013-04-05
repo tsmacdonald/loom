@@ -320,6 +320,7 @@ X:1
 T:Lady Susan Gordon's Reel
 B:William Marshall A Collection Of Strathspey Reels (1781)
 C:William Marshall
+L:1/8
 M:C|
 O:Scotland
 R:Reel
@@ -330,7 +331,7 @@ F:http://richardrobinson.tunebook.org.uk/tune/6580
 K:Bb
 %%staves { 1 2}
 BfdB fBdB | GBFD EC-C2 | BfdB fBdB | (g/a/b) (fe) dB-B2 :: \
-(D/E/F) (BF) dFBF | ! (E/F/G) (cG) eGcG |1 \
+(D/E/F) (BF) dFBF | (E/F/G) (cG) eGcG |1 \
 (D/E/F) (BF) dFBF | FAce dB-!trill!B2 :|2 (D/E/F) (BF) dBfd | (g/a/b) (fe) dB-!trill!B2 |]
 V:2 middle=d clef=bass
 L:1/4
@@ -393,6 +394,7 @@ X:1
 T:Miss Abercromby's Reel
 B:William Marshall A Collection Of Strathspey Reels (1781)
 C:William Marshall
+L:1/8
 M:C|
 O:Scotland
 R:Reel
@@ -416,6 +418,7 @@ T:Miss Admiral Gordon's Reel
 B:William Marshall A Collection Of Strathspey Reels (1781)
 C:William Marshall
 M:C
+L:1/8
 O:Scotland
 R:Strathspey
 Z:Clark Bernst + Richard Robinson
@@ -627,7 +630,7 @@ F:http://richardrobinson.tunebook.org.uk/tune/3924
 K:G minor
 %%staves {1 2}
 !trill!B2 (GB) DGBG | !trill!A2 (Fc) AFcA | B2 (GB) DGBG | !trill!AGFA G/G/G G2 :: \
-dg-ga bgaf | ! cf-f.a bgaf |1 dg-g.a bgaf | {b}agfa g/g/g g2 :|2 \
+dg-ga bgaf | cf-f.a bgaf |1 dg-g.a bgaf | {b}agfa g/g/g g2 :|2 \
 defg fdcB | AGFA G/G/G G2 |]
 V:2 middle=d clef=bass
 L:1/4

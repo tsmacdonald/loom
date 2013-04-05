@@ -1,9 +1,9 @@
 (in-package #:loom)
 
 (defparameter *default-corpus* '("~/src/loom/corpus/marshall/William_Marshall.abc"
-;"~/src/loom/corpus/marshall/William_Marshall_A_Collection_of_Strathspey_Reels__1781.abc"
-;"~/src/loom/corpus/marshall/William_Marshall_Kinrara_1800.abc"
-;"~/src/loom/corpus/marshall/William_Marshalls_Scottish_Airs_Melodies_Strathspeys_Reels_c_1822.abc"
+"~/src/loom/corpus/marshall/William_Marshall_A_Collection_of_Strathspey_Reels__1781.abc"
+"~/src/loom/corpus/marshall/William_Marshall_Kinrara_1800.abc"
+"~/src/loom/corpus/marshall/William_Marshalls_Scottish_Airs_Melodies_Strathspeys_Reels_c_1822.abc"
 "~/src/loom/corpus/marshall/William_Marshalls_Scottish_Melodies_Reels_Strathspeys_volume_2nd_1845.abc"))
 
 (defun read-and-preprocess (files)
@@ -63,4 +63,6 @@
 	(dolist (note notes)
 	  (format out "~&~A~T~a" (coerce sum 'float) (car note))
 	  (incf sum (cdr note)))))))
-      
+
+
+ 
