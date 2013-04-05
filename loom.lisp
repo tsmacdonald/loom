@@ -65,4 +65,30 @@
 	  (incf sum (cdr note)))))))
 
 
- 
+
+
+(defun to-csv-1d (tunes)
+  (dolist (tune tunes)
+    (let
+	((raw-tune (car tune))
+	 (notes (cdr tune)))
+      (with-open-file (out (concatenate 'string "~/src/loom/output/" (cl-ppcre:regex-replace-all "[^a-zA-Z0-9]+" (cl-abc::tune-title raw-tune) "_") "__1d.csv")
+			   :direction :output
+			   :if-exists :supersede)
+;	(format out "~a~T~a" "Time" "Pitch")
+	(dolist (note notes)
+	  (let*
+	      ((pitch (- (car note) 38))
+	       (length (cdr note))
+	       (reps (/ length 1/64)))
+	    (dotimes (i reps)
+	      (format out "~&~A" pitch))))))))
+
+(defun smallest-positive (x y)
+  (if (zerop x)
+      (if (zerop y)
+	  10000000
+	  y)
+      (if (zerop y)
+	  x
+	  (min x y))))
