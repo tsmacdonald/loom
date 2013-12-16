@@ -27,4 +27,11 @@ X:1
 T:%s
 L:1/16
 K:C"""%sys.argv[1]
-	print " ".join(notes)
+	measure = False
+	for i in xrange(0, len(notes), 4):
+		out = "".join([notes[i], notes[i + 1], notes[i + 2], notes[i + 3]])
+		print out,
+		if measure: print " | ",
+		measure = not measure
+	print " ",
+	print "]"

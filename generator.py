@@ -6,7 +6,7 @@ def to_bitmask(i): x = [0.0] * 34; x[i] = 1.0; return tuple(x)
 
 with open(sys.argv[1]) as f:
 	net = pickle.load(f)
-net.reset()
+#net.reset()
 last = [0.0] * 34
 last[random.randint(0,33)] = 1.0
 tune = []

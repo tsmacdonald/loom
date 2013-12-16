@@ -6,6 +6,8 @@
 "~/src/loom/corpus/marshall/William_Marshalls_Scottish_Airs_Melodies_Strathspeys_Reels_c_1822.abc"
 "~/src/loom/corpus/marshall/William_Marshalls_Scottish_Melodies_Reels_Strathspeys_volume_2nd_1845.abc"))
 
+(defparameter *reels* (remove-if-not (lambda (tune-cons) (string-equal (cl-abc::tune-rhythm (car tune-cons)) "Reel")) *tunes*))
+
 (defun read-and-preprocess (files)
   (mapcar #'extract-features (apply #'append (mapcar #'cl-abc::parse-file files))))
 
@@ -69,20 +71,29 @@
 
 (defun to-csv-1d (tunes)
   (dolist (tune tunes)
-    (let
-	((raw-tune (car tune))
-	 (notes (cdr tune)))
-      (with-open-file (out (concatenate 'string "~/src/loom/output/" (cl-ppcre:regex-replace-all "[^a-zA-Z0-9]+" (cl-abc::tune-title raw-tune) "_") "__1d.csv")
-			   :direction :output
-			   :if-exists :supersede)
-;	(format out "~a~T~a" "Time" "Pitch")
-	(dolist (note notes)
-	  (let*
-	      ((pitch (- (car note) 38))
-	       (length (cdr note))
-	       (reps (/ length 1/64)))
-	    (dotimes (i reps)
-	      (format out "~&~A" pitch))))))))
+    (when tune
+      (let
+	  ((raw-tune (car tune))
+	   (notes (cdr tune)))
+	(with-open-file (out (concatenate 'string "~/src/loom/output/" (cl-ppcre:regex-replace-all "[^a-zA-Z0-9]+" (cl-abc::tune-title raw-tune) "_") "__l16_1d_reel_nopickup.csv")
+			     :direction :output
+			     :if-exists :supersede)
+					;	(format out "~a~T~a" "Time" "Pitch")
+	  (dolist (note notes)
+	    (let*
+		((pitch (- (car note) 38))
+		 (length (cdr note))
+		 (too-short (or (and (boundp 'too-short) too-short) (< length 1/16)))
+		 (to-go (if (and (boundp 'too-short) (> to-go 0)) to-go 1/16))
+		 (reps (/ length 1/16)))
+	      (if too-short
+		  (progn
+		    (format out "~&~A" pitch)
+		    (decf to-go length)
+		    (if (<= to-go 0)
+			(setf too-short nil)))
+		  (dotimes (i reps)
+		    (format out "~&~A" pitch))))))))))
 
 (defun smallest-positive (x y)
   (if (zerop x)
@@ -92,3 +103,15 @@
       (if (zerop y)
 	  x
 	  (min x y))))
+
+(defun measure-length (measure)
+  (apply #'+ (mapcar #'cl-abc::note-length measure)))
+
+(defun pickupp (tune)
+  (let ((measures (cl-abc::tune-melody tune)))
+    (/= (measure-length (first measures)) (measure-length (second measures)))))
+
+(defun remove-pickup (tune)
+  (when (pickupp tune)
+    (setf (cl-abc::tune-melody tune) (rest (cl-abc::tune-melody tune))))
+  tune)
